@@ -26,7 +26,7 @@ Con todo esto, deberás seguir los siguientes pasos:
 5. ¡Disfruta del juego!
 
 ## Créditos
-Esta traducción ha sido realizada en su gran mayoría por, Danionel ([Twitter](https://twitter.com/DanionelP)). Muchas gracias a [Jumpman](https://github.com/JumpmanFR) y a [Lorenzooone](https://github.com/Lorenzooone) por prestarme su tan valiosa ayuda con muchos de los aspectos técnicos.
+Esta traducción ha sido realizada en su gran mayoría por Danionel ([Twitter](https://twitter.com/DanionelP)). Muchas gracias a [Jumpman](https://github.com/JumpmanFR) y a [Lorenzooone](https://github.com/Lorenzooone) por prestarme su tan valiosa ayuda con muchos de los aspectos técnicos.
 
 Créditos también, por supuesto, a los creadores de la traducción original:
 - [Jimmytrius](https://twitter.com/Jimmytrius)
