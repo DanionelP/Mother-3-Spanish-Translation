@@ -1,0 +1,108 @@
+// All status names must be 14 letters or less
+// Most of the things in here are for undiscovered debug menus;
+// don't worry if your translations look weird
+
+00:(EMPTY)
+00-E:(NADA)
+01:Poison
+01-E:Veneno
+02:Numb
+02-E:ùaƒálisis
+03:Sleep
+03-E:Sueño
+04:Stƒange
+04-E:Rareza
+05:Crying
+05-E:Lágrimas
+06:øorgetful
+06-E:Olvido
+07:Nauseous
+07-E:Náuseas
+08:Fleas
+08-E:Pulgas
+09:On Fire
+09-E:En llamas
+0A:Stopped, ørozen
+0A-E:Congelación
+0B:Smelly
+0B-E:Hedor
+0C:DCMC
+0C-E:DCMC
+0D:Staple Stopped
+0D-E:Fin clavos
+0E:Apology Stopped
+0E-E:Fin disculpas
+0F:Laugh Stopped
+0F-E:Fin de la risa
+10:Defense
+10-E:Defensa
+11:No EXP
+11-E:No EXP
+12:Off Down (weak)
+12-E:Baj. øue (déb)
+13:Off Down(Štrng)
+13-E:Baj. øue (frt)
+14:Def Down (weak)
+14-E:Baj. Def (déb)
+15:Def Down(Štrng)
+15-E:Baj. Def (frt)
+16:Shield
+16-E:Escudo
+17:Counter
+17-E:ReflÊjo
+18:Electrocuted
+18-E:Electrocutado
+19:PSI Shield
+19-E:Escudo PSI
+1A:PSI Counter
+1A-E:ReflÊjo PSI
+1B:Off Up (weak)
+1B-E:Sub. øue (déb)
+1C:Off Up (Štrong)
+1C-E:Sub. øue (frt)
+1D:Def Up (weak)
+1D-E:Sub. Def (déb)
+1E:Def Up (Štrong)
+1E-E:Sub. Def (frt)
+1F:Escape øailure
+1F-E:øallo al huir
+20:Dance
+20-E:Bailar
+21:Off Down (mid)
+21-E:Baj. øue (med)
+22:Def Down (mid)
+22-E:Baj. Def (med)
+23:Time Bomb
+23-E:Bomba temp.
+24:ùaƒameters Up
+24-E:Subir•paƒám.
+25:ùaƒameters Down
+25-E:Bajar•paƒám.
+26:Refresh
+26-E:Regeneƒar
+27:øell
+27-E:Caer
+28:MonkeyDanceOff
+28-E:MonkeyDanceOff
+29:MonkeyDanceDef
+29-E:MonkeyDanceDef
+2A:MonkeyDanceSP
+2A-E:MonkeyDanceSP
+2B:MonkeyDanceIQ
+2B-E:MonkeyDanceCI
+2C:MonkeyDanceOff
+2C-E:MonkeyDanceOff
+2D:MonkeyDanceDef
+2D-E:MonkeyDanceDef
+2E:MonkeyDanceSP
+2E-E:MonkeyDanceSP
+2F:MonkeyDanceIQ
+2F-E:MonkeyDanceIQ
+30:Endure
+30-E:Aguantar
+31:Off Up (mid)
+31-E:Sub. øue (med)
+32:Def Up (mid)
+32-E:Sub. Def (med)
+33:No Back Sprite
+33-E:No sprite•trs.

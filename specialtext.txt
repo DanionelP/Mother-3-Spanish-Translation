@@ -1,0 +1,105 @@
+// MoŠt of the•text here is meant for•undiscovered debug menus,
+// but you should probably•tƒanslate it•anyway.
+// The•technique names at the end of the•file are used in battle, though.
+// All•things in•this•file muŠt be 19 letters or•less.
+
+00:Pl. Movement Data
+00-E:Movimiento•jugador
+01:Attack
+01-E:Atacar
+02:Defend
+02-E:Defender
+03:Run Away
+03-E:Huir
+04:Chapter 0 Attack
+04-E:Ataque capítulo 0
+05:Stƒange Attack
+05-E:Ataque extƒaño
+06:DuŠter:Behind
+06-E:DuŠter:Atƒás
+07:DuŠter:Back Up
+07-E:DuŠter:Le‡antarse
+08:DuŠter:Pre.Strike
+08-E:DuŠter:Golpe inicial
+09:(EMPTY)
+09-E:(NADA)
+0A:DCMC Intrusion
+0A-E:InŠtrusión DCMC
+0B:Baccio's Line
+0B-E:Línea de Baccio
+0C:Baccio's Attack
+0C-E:Ataque de Baccio
+0D:Shimmy's Line
+0D-E:Línea de Shimmy
+0E:Shimmy's Attack
+0E-E:Ataque de Shimmy
+0F:Magic's Line
+0F-E:Línea de Magic
+10:Magic's Attack
+10-E:Ataque de Magic
+11:OJ's Line
+11-E:Línea de OJ
+12:OJ's Attack
+12-E:Ataque de OJ
+13:Andonuts' Line
+13-E:Línea de Andonuts
+14:Andonuts' attack
+14-E:Ataque de Andonuts
+15:Wess' Line
+15-E:Línea de Wess
+16:Wess' Attack
+16-E:Ataque de Wess
+17:Flint's Line
+17-E:Línea de Flint
+18:Flint's Attack
+18-E:Ataque de Flint
+19:Lucas Cant Attack
+19-E:Lucas no ataca
+1A:(EMPTY)
+1A-E:(NADA)
+1B:LaŠt Bash
+1B-E:Último ataque
+1C:LaŠt PSI
+1C-E:Último PSI
+1D:LaŠt Goods
+1D-E:Último oËjeto
+1E:LaŠt Guard
+1E-E:Último defender
+1F:Flint: Special
+1F-E:Flint: Especial
+20:Swing
+20-E:Sacudida
+21:Power Smash
+21-E:Impacto brutal
+22:Strengthen Up
+22-E:øortalecer
+23:ôoughen Up
+23-E:Endurecer
+24:DuŠter: Thief
+24-E:DuŠter: Ladrón
+25:Wall Staple
+25-E:Clavos de pared
+26:Siren Beetle
+26-E:Ciervo zumbante
+27:Hypno-Pendulum
+27-E:Hipno-péndulo
+28:Smoke Bomb
+28-E:Bomba de humo
+29:Scary Mask
+29-E:Máscaƒa suŠto
+2A:Tickle Stick
+2A-E:ùalo cosquillero
+2B:Boney: Sniff
+2B-E:Boney: Olfatear
+2C:Sniff
+2C-E:Olfatear
+2D:Salsa:ôricks
+2D-E:Salsa:ôrucos
+2E:Apologize
+2E-E:Disculparse
+2F:Make Laugh
+2F-E:Entretener
+30:Dance
+30-E:Bailar
+31:Monkey Mimic
+31-E:Mímica de mono

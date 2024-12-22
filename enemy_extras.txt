@@ -1,0 +1,3088 @@
+// (NADA)
+-
+-
+-
+-
+-
+-
+-
+-
+// Caribú reconstruido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Don ùasión
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Osoherpiente
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Arcilloso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mecha-Drago
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Tanque porcino
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Don Genetor
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Grillo•topo
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Sonrisa macabƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Sonrisa brillante
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Porky
+-
+-
+-
+-
+de 
+a 
+o
+-
+// C.E.R.D.O
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Enmascaƒado
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Puercareto•feroz
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Puercareto•feroz
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Bajo celoso
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Porky
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Babosa pegajosa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// PORKY 02
+-
+-
+-
+-
+de 
+a 
+o
+-
+// EŠtatua real
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Hipolanzadeƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Neo øalhaz
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Sonrisa macabƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Lord ùasión
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Árbol cariñoso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// PORKY 03
+-
+-
+-
+-
+de 
+a 
+o
+-
+// PORKY 08
+-
+-
+-
+-
+de 
+a 
+o
+-
+// øalhaz milagroso
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Comandante puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gƒan antillón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Electroplasma
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Rinocohete v2
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// SuŠtobot
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// "El Rata"
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Pirodóptero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mecha-león
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Corte de carreteƒa
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ôrotaseta
+UnÅ 
+unÅ 
+LÅ 
+lÅ 
+de lÅ 
+a lÅ 
+a
+lÅ 
+// Petardo gƒaznante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gran pescánido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Sr. Murchiflado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Ratón gorrón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Flamidóptero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ôuberculoide
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Ratón volador
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// PORKY 01
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Jabalí agitado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Serpiente mordedoƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Bola de hollín
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// ôuberculoide asado
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// ArbuŠtito andante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Medusa despreocupada
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Metalmono miŠterioso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Lagarto escarpado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gusano patatero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Ÿetiesquí
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Can gelado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Babosa viscosa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Geocita
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Confuseta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Grillo•topo
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Boa tƒansiŠtor
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// ôopo•tƒavieso
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// ¡ôopobot!
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Buitƒaco
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Árbol
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Titani
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Copito
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Doña Laventa
+-
+-
+-
+-
+de 
+a 
+a
+-
+// Volcánido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Señor•zombi
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Perro zombi
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Alma amargada
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Lápida ambulante
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// SanguÎjuelo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// LangoŠta cobarde
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Cochinilla ENORME
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Esqueleto alegre
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hermanote
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hombre barril
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Limo de•fresa
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ¡Aƒácnido!
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Cucaƒacha violenta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// ôrío barreƒa
+EÙ 
+eÙ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Armaduƒa espectƒal
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Espada espectƒal
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Escudo espectƒal
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Caballero espectƒal
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Capa de Osohe
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// øantasma mecedor
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Pseudopuerta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Sonrisa macabƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Escaƒabajo boñiguero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gƒan antillón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Bocaseca
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Lagarto arenoso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Cactulobo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Pringue pringoso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ôutangatón
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Hermanito
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Zombiñón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// øantasma fétido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Crítico•fantasmal
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Rocinántula
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Porquídea
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// ùalo gƒaznante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mohosus Putridus
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Aví·boƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Engendro
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Pescánido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Vacaconda
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// PorkŠtein
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mantis religiosa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Dƒagolibélula
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Cucaƒacha mugrienta
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Champichucho
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Mecha-tortuga
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Equipo•fƒaternal
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Murciangután
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Elefantruz
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Titani aéreo
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Monorsa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Canguburón maternal
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Señorita Mal‡avisco
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Casi-Mecha-león
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Rinocohete
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Ruedapuerco hiŠtérico
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Cucaƒacha metálica
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Helirƒatón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ¡Cortocircuito!
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Robot obsoleto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Rompecoƒazones
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Sonrisa macabƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Surtibot•atómico
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Surtibot nuclear
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hombre negativo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Cabezabuque
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Hipotenuso
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Gusanazo patatero
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ôuberculoide pelado
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Hipolanzadeƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Gorilabot de acero
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Zombidillo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Caviar•peleón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// PORKY 07
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Retorno de Octobot
+-
+-
+El 
+el 
+del 
+al 
+o
+el 
+// Alimaña alfombreƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Robot patrulla
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Señoƒa zombi
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// ôƒavieseta
+UnÅ 
+unÅ 
+LÅ 
+lÅ 
+de lÅ 
+a lÅ 
+a
+lÅ 
+// Lord¬Murchiflado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ¡¡¡¡Aƒácnido!!!!
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Ratón ladrón
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Guitarƒa llorona
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// ôambor•roto
+EÙ 
+eÙ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// ôopo reconŠtruido
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// León reconŠtruido
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Robot tambaleante
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Señal masculina
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Robot deŠtrozado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Chatarƒa desolada
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Caja sorpresa
+La 
+la 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Baterín
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// ôornillete
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Bomba ƒaŠtreƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// K4N1N0
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Alcalino
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// PORKY 06
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Comandante Puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Coronel Puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Capitán puercareto
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Puercareto marino
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// MaeŠtro•torbellino
+El 
+el 
+El 
+el 
+del 
+al 
+o
+el 
+// Gamba gamberƒa
+Una 
+una 
+La 
+la 
+de la 
+a la 
+a
+la 
+// Pez redooondo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Buitƒaco celeŠte
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Seguribot
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Viento incordiante
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// PORKY 09
+-
+-
+-
+-
+de 
+a 
+o
+-
+// PORKY 10
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Titanian
+UÛ 
+uÛ 
+EÙ 
+eÙ 
+deÙ 
+aÙ 
+o
+eÙ 
+// Robot mÊjoƒado
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Judiablillo
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Judiablillo negro
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// Minibosque
+Un 
+un 
+El 
+el 
+del 
+al 
+o
+el 
+// PORKY 04
+-
+-
+-
+-
+de 
+a 
+o
+-
+// PORKY 05
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Enmascaƒado
+El 
+El 
+El 
+el 
+del 
+al 
+o
+el 
+// Enmascaƒado
+El 
+El 
+El 
+el 
+del 
+al 
+o
+el 
+// (NADA)
+-
+-
+-
+-
+-
+-
+-
+-
+// Pick
+-
+-
+-
+-
+-
+-
+-
+-
+// Antillón
+-
+-
+-
+-
+-
+-
+-
+-
+// Pigmask ôrooper
+-
+-
+-
+-
+-
+-
+-
+-
+// Cƒab
+-
+-
+-
+-
+-
+-
+-
+-
+// Electric Catfish
+-
+-
+-
+-
+-
+-
+-
+-
+// Shimmy Zmizz
+-
+-
+-
+-
+-
+-
+-
+-
+// Magic
+-
+-
+-
+-
+-
+-
+-
+-
+// DuŠter
+-
+-
+-
+-
+-
+-
+-
+-
+// Keyboard
+-
+-
+-
+-
+-
+-
+-
+-
+// OJ
+-
+-
+-
+-
+-
+-
+-
+-
+// Robot
+-
+-
+-
+-
+-
+-
+-
+-
+// Dung Beetle
+-
+-
+-
+-
+-
+-
+-
+-
+// ôent Person
+-
+-
+-
+-
+-
+-
+-
+-
+// Snow Hare
+-
+-
+-
+-
+-
+-
+-
+-
+// Clayman
+-
+-
+-
+-
+-
+-
+-
+-
+// Vapor
+-
+-
+-
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+-
+-
+-
+// Aeolia's•ôable
+-
+-
+-
+-
+-
+-
+-
+-
+// Stƒaw
+-
+-
+-
+-
+-
+-
+-
+-
+// Vapor 2
+-
+-
+-
+-
+-
+-
+-
+-
+// Mini Ele‡ator
+-
+-
+-
+-
+-
+-
+-
+-
+// Dƒago
+-
+-
+-
+-
+-
+-
+-
+-
+// Pigmask ôrooper
+-
+-
+-
+-
+-
+-
+-
+-
+// Green•ôƒain
+-
+-
+-
+-
+-
+-
+-
+-
+// Pump Dƒago
+-
+-
+-
+-
+-
+-
+-
+-
+// Three Amigos
+-
+-
+-
+-
+-
+-
+-
+-
+// Flower
+-
+-
+-
+-
+-
+-
+-
+-
+// Rope Ladder
+-
+-
+-
+-
+-
+-
+-
+-
+// Flame 3
+-
+-
+-
+-
+-
+-
+-
+-
+// Flag
+-
+-
+-
+-
+-
+-
+-
+-
+// Ropeway
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// Piece
+-
+-
+-
+-
+-
+-
+-
+-
+// Flame 1
+-
+-
+-
+-
+-
+-
+-
+-
+// Lotus Root
+-
+-
+-
+-
+-
+-
+-
+-
+// Unworked Clay
+-
+-
+-
+-
+-
+-
+-
+-
+// Explosion
+-
+-
+-
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+-
+-
+-
+// Statue Head
+-
+-
+-
+-
+-
+-
+-
+-
+// Carousel
+-
+-
+-
+-
+-
+-
+-
+-
+// Nippo's Dresser
+-
+-
+-
+-
+-
+-
+-
+-
+// Firefly Swarm
+-
+-
+-
+-
+-
+-
+-
+-
+// Hinawa's Cloth
+-
+-
+-
+-
+-
+-
+-
+-
+// Electric Catfish
+-
+-
+-
+-
+-
+-
+-
+-
+// Broom
+-
+-
+-
+-
+-
+-
+-
+-
+// Fish
+-
+-
+-
+-
+-
+-
+-
+-
+// Sea Urchin
+-
+-
+-
+-
+-
+-
+-
+-
+// ôƒain
+-
+-
+-
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// Portƒait
+-
+-
+-
+-
+-
+-
+-
+-
+// Nice GhoŠt
+-
+-
+-
+-
+-
+-
+-
+-
+// ôƒash Can
+-
+-
+-
+-
+-
+-
+-
+-
+// Steel Ball
+-
+-
+-
+-
+-
+-
+-
+-
+// Egg of Light
+-
+-
+-
+-
+-
+-
+-
+-
+// CheŠtnut
+-
+-
+-
+-
+-
+-
+-
+-
+// Rockin' GhoŠt
+-
+-
+-
+-
+-
+-
+-
+-
+// Candle
+-
+-
+-
+-
+-
+-
+-
+-
+// Mouse
+-
+-
+-
+-
+-
+-
+-
+-
+// Energy Machine
+-
+-
+-
+-
+-
+-
+-
+-
+// Light Blade
+-
+-
+-
+-
+-
+-
+-
+-
+// Wine Glass
+-
+-
+-
+-
+-
+-
+-
+-
+// Rope Snake
+-
+-
+-
+-
+-
+-
+-
+-
+// Stinkbug
+-
+-
+-
+-
+-
+-
+-
+-
+// Garbage•ôruck
+-
+-
+-
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+-
+-
+-
+// Ionia
+-
+-
+-
+-
+-
+-
+-
+-
+// Doria
+-
+-
+-
+-
+-
+-
+-
+-
+// Magnifier
+-
+-
+-
+-
+-
+-
+-
+-
+// ôext Balloon
+-
+-
+-
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+-
+-
+-
+// NO Stone
+-
+-
+-
+-
+-
+-
+-
+-
+// Kumatoƒa
+-
+-
+-
+-
+-
+-
+-
+-
+// Stone øƒagment
+-
+-
+-
+-
+-
+-
+-
+-
+// That Car
+-
+-
+-
+-
+-
+-
+-
+-
+// Black Dƒago
+-
+-
+-
+-
+-
+-
+-
+-
+// Mole Cricket
+-
+-
+-
+-
+-
+-
+-
+-
+// Lightning
+-
+-
+-
+-
+-
+-
+-
+-
+// Mothership
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// Lydia
+-
+-
+-
+-
+-
+-
+-
+-
+// Mixolydia
+-
+-
+-
+-
+-
+-
+-
+-
+// Hinawa
+-
+-
+-
+-
+-
+-
+-
+-
+// ørozen Dƒago
+-
+-
+-
+-
+-
+-
+-
+-
+// Porky
+-
+-
+-
+-
+-
+-
+-
+-
+// Thunder
+-
+-
+-
+-
+-
+-
+-
+-
+// Child Mouse
+-
+-
+-
+-
+-
+-
+-
+-
+// Dr. Andonuts
+-
+-
+-
+-
+-
+-
+-
+-
+// Osohe CaŠtle
+-
+-
+-
+-
+-
+-
+-
+-
+// Mothership
+-
+-
+-
+-
+-
+-
+-
+-
+// Volcano
+-
+-
+-
+-
+-
+-
+-
+-
+// Explosion FX
+-
+-
+-
+-
+-
+-
+-
+-
+// Caption
+-
+-
+-
+-
+-
+-
+-
+-
+// DiŠtant Mothership
+-
+-
+-
+-
+-
+-
+-
+-
+// Tiles
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// Water Column
+-
+-
+-
+-
+-
+-
+-
+-
+// DiŠtant Mothership
+-
+-
+-
+-
+-
+-
+-
+-
+// NO Rock Smoke
+-
+-
+-
+-
+-
+-
+-
+-
+// Smoke
+-
+-
+-
+-
+-
+-
+-
+-
+// Sapling
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// (EMPTY)
+-
+-
+-
+-
+-
+-
+-
+-
+// Gƒave
+-
+-
+-
+-
+-
+-
+-
+-
+// Phrygia
+-
+-
+-
+-
+-
+-
+-
+-
+// Cube
+-
+-
+-
+-
+-
+-
+-
+-
+// Iron Octopus
+-
+-
+-
+-
+-
+-
+-
+-
+// Caribou
+-
+-
+-
+-
+-
+-
+-
+-
+// Ionia
+-
+-
+-
+-
+-
+-
+-
+-
+// Dryer Dƒago Wind
+-
+-
+-
+-
+-
+-
+-
+-
+// Mushroom
+-
+-
+-
+-
+-
+-
+-
+-
+// Bridge
+-
+-
+-
+-
+-
+-
+-
+-
+// Halluc. Blue•ôent
+-
+-
+-
+-
+-
+-
+-
+-
+// Wooden•ôable Horse 1
+-
+-
+-
+-
+-
+-
+-
+-
+// Wooden•ôable Horse 2
+-
+-
+-
+-
+-
+-
+-
+-
+// Wooden•ôable Horse 3
+-
+-
+-
+-
+-
+-
+-
+-
+// Boat on Mind's 100F
+-
+-
+-
+-
+-
+-
+-
+-
+// Mini Porkybot
+-
+-
+-
+-
+-
+-
+-
+-
+// Sign
+-
+-
+-
+-
+-
+-
+-
+-
+// Unicycle
+-
+-
+-
+-
+-
+-
+-
+-
+// Game Balloon
+-
+-
+-
+-
+-
+-
+-
+-
+// Octopus Ink
+-
+-
+-
+-
+-
+-
+-
+-
+// Dƒagon Fireworks
+-
+-
+-
+-
+-
+-
+-
+-
+// Skyrocket
+-
+-
+-
+-
+-
+-
+-
+-
+// Police Car
+-
+-
+-
+-
+-
+-
+-
+-
+// Automobile
+-
+-
+-
+-
+-
+-
+-
+-
+// Titiboo Attic Kotatsu
+-
+-
+-
+-
+-
+-
+-
+-
+// Wooden MOTHER 3 Title
+-
+-
+-
+-
+-
+-
+-
+-
+// Overworld
+-
+-
+-
+-
+-
+-
+-
+-
+// Underworld
+-
+-
+-
+-
+-
+-
+-
+-
+// Mens Room Door
+-
+-
+-
+-
+-
+-
+-
+-
+// Aeolia & Sofa
+-
+-
+-
+-
+-
+-
+-
+-
+// EMPTY (Chaƒacter)
+-
+-
+-
+-
+-
+-
+-
+-
+// Flint
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Lucas
+-
+-
+-
+-
+de 
+a 
+o
+-
+// DuŠter
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Kumatoƒa
+-
+-
+-
+-
+de 
+a 
+a
+-
+// Boney
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Salsa
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Wess
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Thomas
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Ionia
+-
+-
+-
+-
+de 
+a 
+a
+-
+// øuel
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Alec
+-
+-
+-
+-
+de 
+a 
+o
+-
+// øalhaz
+-
+-
+-
+-
+de 
+a 
+o
+-
+// Claus
+-
+-
+-
+-
+de 
+a 
+o
+-
+//

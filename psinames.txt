@@ -1,0 +1,199 @@
+// PSI names muŠt be 19 letters or•less, but the shorter•the better
+00:(EMPTY)
+00-E:(NADA)
+01:PK Cool•Thing
+01-E:PK Cosa chula
+02:PK Cool•Thing
+02-E:PK Cosa chula
+03:PK Cool•Thing
+03-E:PK Cosa chula
+04:PK Cool•Thing
+04-E:PK Cosa chula
+05:PK Flash
+05-E:PK Flash
+06:PK StarŠtorm
+06-E:PK ôormenta eŠtelar
+07:PK Fire [ALPHA]
+07-E:PK øuego [ALPHA]
+08:PK Fire [BETA]
+08-E:PK øuego [BETA]
+09:PK Fire [GAMMA]
+09-E:PK øuego [GAMMA]
+0A:PK Fire [OMEGA]
+0A-E:PK øuego [OMEGA]
+0B:PK øreeze [ALPHA]
+0B-E:PK Hielo [ALPHA]
+0C:PK øreeze [BETA]
+0C-E:PK Hielo [BETA]
+0D:PK øreeze [GAMMA]
+0D-E:PK Hielo [GAMMA]
+0E:PK øreeze [OMEGA]
+0E-E:PK Hielo [OMEGA]
+0F:PK Thunder [ALPHA]
+0F-E:PK ôrueno [ALPHA]
+10:PK Thunder [BETA]
+10-E:PK ôrueno [BETA]
+11:PK Thunder [GAMMA]
+11-E:PK ôrueno [GAMMA]
+12:PK Thunder [OMEGA]
+12-E:PK ôrueno [OMEGA]
+13:PK Ground
+13-E:PK Seísmo
+14:(EMPTY)
+14-E:(NADA)
+15:(EMPTY)
+15-E:(NADA)
+16:Lifeup [ALPHA]
+16-E:Recupeƒar•[ALPHA]
+17:Lifeup [BETA]
+17-E:Recupeƒar•[BETA]
+18:Lifeup [GAMMA]
+18-E:Recupeƒar•[GAMMA]
+19:Lifeup [OMEGA]
+19-E:Recupeƒar•[OMEGA]
+1A:Refresh
+1A-E:Regeneƒar
+1B:Healing [ALPHA]
+1B-E:Sanar•[ALPHA]
+1C:Healing [BETA]
+1C-E:Sanar•[BETA]
+1D:Healing [GAMMA]
+1D-E:Sanar•[GAMMA]
+1E:Healing [OMEGA]
+1E-E:Sanar•[OMEGA]
+1F:PSI Magnet [ALPHA]
+1F-E:Imán PSI [ALPHA]
+20:PSI Magnet [OMEGA]
+20-E:Imán PSI [OMEGA]
+21:(EMPTY)
+21-E:(NADA)
+22:Shield [ALPHA]
+22-E:Escudo [ALPHA]
+23:Shield [OMEGA]
+23-E:Escudo [OMEGA]
+24:Counter [ALPHA]
+24-E:ReflÊjo [ALPHA]
+25:Counter [OMEGA]
+25-E:ReflÊjo [OMEGA]
+26:PSI Shield [ALPHA]
+26-E:Escudo PSI [ALPHA]
+27:PSI Shield [OMEGA]
+27-E:Escudo PSI [OMEGA]
+28:PSI Counter [ALPHA]
+28-E:ReflÊjo PSI [ALPHA]
+29:PSI Counter [OMEGA]
+29-E:ReflÊjo PSI [OMEGA]
+2A:(EMPTY)
+2A-E:(NADA)
+2B:(EMPTY)
+2B-E:(NADA)
+2C:(EMPTY)
+2C-E:(NADA)
+2D:(EMPTY)
+2D-E:(NADA)
+2E:Offense Up [ALPHA]
+2E-E:øuerza plus [ALPHA]
+2F:Offense Up [OMEGA]
+2F-E:øuerza plus [OMEGA]
+30:Defense Up [ALPHA]
+30-E:Defensa plus [ALPHA]
+31:Defense Up [OMEGA]
+31-E:Defensa plus [OMEGA]
+32:(EMPTY)
+32-E:(NADA)
+33:Hypnosis [ALPHA]
+33-E:Hipnosis [ALPHA]
+34:Hypnosis [OMEGA]
+34-E:Hipnosis [OMEGA]
+35:ùaƒalysis [ALPHA]
+35-E:ùaƒálisis [ALPHA]
+36:ùaƒalysis [OMEGA]
+36-E:ùaƒálisis [OMEGA]
+37:Bƒainshock [ALPHA]
+37-E:Shock•mental [ALPHA]
+38:Bƒainshock [OMEGA]
+38-E:Shock•mental [OMEGA]
+39:(EMPTY)
+39-E:(NADA)
+3A:Offense Down [ALPHA]
+3A-E:Mermar•fuerza [ALPHA]
+3B:Offense Down [OMEGA]
+3B-E:Mermar•fuerza [OMEGA]
+3C:Defense Down [ALPHA]
+3C-E:Mermar•defensa [ALPHA]
+3D:Defense Down [OMEGA]
+3D-E:Mermar•defensa [OMEGA]
+3E:(EMPTY)
+3E-E:(NADA)
+3F:(EMPTY)
+3F-E:(NADA)
+40:(EMPTY)
+40-E:(EMPTY)
+41:(EMPTY)
+41-E:(NADA)
+42:(EMPTY)
+42-E:(NADA)
+43:(EMPTY)
+43-E:(NADA)
+44:(EMPTY)
+44-E:(NADA)
+45:(EMPTY)
+45-E:(NADA)
+46:(EMPTY)
+46-E:(NADA)
+47:(EMPTY)
+47-E:(NADA)
+48:(EMPTY)
+48-E:(NADA)
+49:(EMPTY)
+49-E:(NADA)
+4A:(EMPTY)
+4A-E:(NADA)
+4B:(EMPTY)
+4B-E:(NADA)
+4C:(EMPTY)
+4C-E:(NADA)
+4D:(EMPTY)
+4D-E:(NADA)
+4E:(EMPTY)
+4E-E:(NADA)
+4F:(EMPTY)
+4F-E:(NADA)
+50:(EMPTY)
+50-E:(NADA)
+51:(EMPTY)
+51-E:(NADA)
+52:(EMPTY)
+52-E:(NADA)
+53:(EMPTY)
+53-E:(NADA)
+54:(EMPTY)
+54-E:(NADA)
+55:(EMPTY)
+55-E:(NADA)
+56:(EMPTY)
+56-E:(NADA)
+57:(EMPTY)
+57-E:(NADA)
+58:(EMPTY)
+58-E:(NADA)
+59:(EMPTY)
+59-E:(NADA)
+5A:(EMPTY)
+5A-E:(NADA)
+5B:(EMPTY)
+5B-E:(NADA)
+5C:(EMPTY)
+5C-E:(NADA)
+5D:(EMPTY)
+5D-E:(NADA)
+5E:(EMPTY)
+5E-E:(NADA)
+5F:(EMPTY)
+5F-E:(NADA)
+60:(EMPTY)
+60-E:(NADA)
+61:(EMPTY)
+61-E:(NADA)
+62:(EMPTY)
+62-E:(NADA)

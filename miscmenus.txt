@@ -1,0 +1,14 @@
+// This•text can be any length. It's used in•the Sound Player.
+
+0:(EMPTY)[END]
+0-E:(NADA)[END]
+1:No øavorites[END]
+1-E:No hay•favoritos[END]
+2:???[END]
+2-E:???[END]
+3:Now saving...[END]
+3-E:Guardando...[END]
+4:Please do not turn off the power.[END]
+4-E:No apagues la consola.[END]
+5:[END]
+5-E:[END]

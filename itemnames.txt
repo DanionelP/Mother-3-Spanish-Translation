@@ -1,0 +1,514 @@
+// Item names muŠt be 21 letters or•less
+
+0000: EMPTY
+0000-E: NADA
+0001: Lighter's Lumber
+0001-E: Madero de Lighter
+0002: øresh Lumber
+0002-E: Madero•virgen
+0003: Stick
+0003-E: ùalo
+0004: Better Stick
+0004-E: ùalo mÊjoƒado
+0005: Easy-Grip Stick
+0005-E: ùalo ergonómico
+0006: Good Stick
+0006-E: ùalo bueno
+0007: Very Good Stick
+0007-E: ùalo excelente
+0008: øunny Stick
+0008-E: ùalo gƒacioso
+0009: Vigor Stick
+0009-E: ùalo•vigoroso
+000A: Clever Stick
+000A-E: ùalo inteligente
+000B: MaŠter Stick
+000B-E: ùalo maeŠtro
+000C: MyŠtical Stick
+000C-E: ùalo míŠtico
+000D: Gloves
+000D-E: Guantes
+000E: Duƒable Gloves
+000E-E: Guantes duƒaderos
+000F: Chic Gloves
+000F-E: Guantes modernos
+0010: Strong Gloves
+0010-E: Guantes•fuertes
+0011: Magic Gloves
+0011-E: Manoplas mágicas
+0012: Sevolg
+0012-E: Setnaug
+0013: Expensive Gloves
+0013-E: Guantes de l‰jo
+0014: Angel Gloves
+0014-E: Manoplas de ángel
+0015: MyŠtical Gloves
+0015-E: Guantes míŠticos
+0016: Ordinary Shoes
+0016-E: Zapatos ordinarios
+0017: Duƒable Shoes
+0017-E: Zapatos resiŠtentes
+0018: Sharp Shoes
+0018-E: Zapatos punzantes
+0019: Ultimate Shoes
+0019-E: Zapatos definitivos
+001A: MyŠtical Shoes
+001A-E: Calzado míŠtico
+001B: Good Shoes
+001B-E: Zapatos de marca
+001C: Rubber Boots
+001C-E: Botas de goma
+001D: Barefoot Shoes
+001D-E: Zapapies
+001E: Non-Slip Shoes
+001E-E: Antideslizantes
+001F: Handy•Ÿo-Ÿo
+001F-E: Ÿoyó pƒáctico
+0020: Canine Weapon
+0020-E: Garrote canino
+0021: DCMC ùamphlet
+0021-E: ùanfleto DCMC
+0022: øake Bat
+0022-E: Bate de pega
+0023: øake ørying ùan
+0023-E: Sartén de pega
+0024: Real Bat
+0024-E: Bate genuino
+0025: Mini-Mini Charm
+0025-E: Mini-mini amuleto
+0026: Flea Charm
+0026-E: Amuleto pulga
+0027: Mosquito Charm
+0027-E: Amuleto mosquito
+0028: Fly Charm
+0028-E: Amuleto mosca
+0029: Bantam Charm
+0029-E: Amuleto gallina
+002A: øeather Charm
+002A-E: Amuleto plumífero
+002B: Pumice Charm
+002B-E: Amuleto de pumita
+002C: Heavy Charm
+002C-E: Amuleto pesado
+002D: Thud Charm
+002D-E: Amuleto sordo
+002E: White Collar
+002E-E: Collar•blanco
+002F: Brown Collar
+002F-E: Collar•marrón
+0030: Black Collar
+0030-E: Collar•negro
+0031: Striped Collar
+0031-E: Collar•a ƒayas
+0032: Red Collar
+0032-E: Collar•rÒjo
+0033: DCMC Shirt
+0033-E: Camiseta DCMC
+0034: Rubber Cape
+0034-E: Capa de goma
+0035: Aloha Coat
+0035-E: Chaqueta aloha
+0036: Warm Sweater
+0036-E: Jersey cálido
+0037: Goddess BuŠtier
+0037-E: Corsé de diosa
+0038: Awesome Cloak
+0038-E: Capa imponente
+0039: Manly Bandana
+0039-E: Bandana viril
+003A: Chick Bandana
+003A-E: Bandana polluelo
+003B: Sparrow Bandana
+003B-E: Bandana gorrión
+003C: Rail Bandana
+003C-E: Bandana ƒascón
+003D: Swallow Bandana
+003D-E: Bandana golondrina
+003E: Crow Bandana
+003E-E: Bandana cuervo
+003F: Kite Bandana
+003F-E: Bandana milano
+0040: Horus Bandana
+0040-E: Bandana Horus
+0041: Ordinary Hat
+0041-E: Sombrero común
+0042: Cow Hat
+0042-E: Gorro de ‡aca
+0043: Alligator Hat
+0043-E: Gorro de cocodrilo
+0044: Bear Hat
+0044-E: Gorro de oso
+0045: Otter Hat
+0045-E: Gorro de nutria
+0046: Scarlet Ribbon
+0046-E: Lazo escarlata
+0047: Azure Ribbon
+0047-E: Lazo azulado
+0048: Boing Ribbon
+0048-E: Lazo boing
+0049: øairy Ribbon
+0049-E: Lazo de hada
+004A: Angel Ribbon
+004A-E: Lazo de ángel
+004B: Goddess Ribbon
+004B-E: Lazo de diosa
+004C: DCMC Hat
+004C-E: Gorƒa DCMC
+004D: Awesome Crown
+004D-E: Corona imponente
+004E: Aries Bƒacelet
+004E-E: Bƒazal Aries
+004F: Aquarius Bƒacelet
+004F-E: Bƒazal Acuario
+0050: Pisces Bƒacelet
+0050-E: Bƒazal Piscis
+0051: Capricorn Bƒacelet
+0051-E: Bƒazal Capricornio
+0052: ôaurus Bƒacelet
+0052-E: Bƒazal•ôauro
+0053: Gemini Bƒacelet
+0053-E: Bƒazal Géminis
+0054: Cancer Bƒacelet
+0054-E: Bƒazal Cáncer
+0055: Leo Bƒacelet
+0055-E: Bƒazal Leo
+0056: Virgo Bƒacelet
+0056-E: Bƒazal Virgo
+0057: Libƒa Bƒacelet
+0057-E: Bƒazal Libƒa
+0058: Scorpio Bƒacelet
+0058-E: Bƒazal Escorpio
+0059: Sagittarius Bƒacelet
+0059-E: Bƒazal Sagitario
+005A: DCMC Ring
+005A-E: Anillo DCMC
+005B: Awesome Ring
+005B-E: Anillo imponente
+005C: øavorite øood
+005C-E: Comida favorita
+005D: Nut
+005D-E: Nuez
+005E: Nut Bread
+005E-E: ùan de nueces
+005F: Nut Cookie
+005F-E: Galleta con nueces
+0060: øresh Milk
+0060-E: Leche•fresca
+0061: Rotten Milk
+0061-E: Leche cortada
+0062: Ÿogurt
+0062-E: Ÿogur
+0063: Edible Mushroom
+0063-E: Seta comeŠtible
+0064: Innit ôea
+0064-E: ôé lohés
+0065: Beef Jerky
+0065-E: Carne de•terneƒa
+0066: øresh Egg
+0066-E: Huevo•fresco
+0067: Rotten Eclair
+0067-E: ùaŠtelillo podrido
+0068: Rotten Ba‡arois
+0068-E: Ba‡arois podrido
+0069: Peculiar Cheese
+0069-E: Queso peculiar
+006A: Bag of Pork Chips
+006A-E: ùatatas porcinas
+006B: Luxury Banana
+006B-E: Plátano l‰joso
+006C: Bread Roll
+006C-E: ùanecillo
+006D: Fizzy Soda
+006D-E: Gaseosa
+006E: Big City Soda
+006E-E: Gaseosa urbana
+006F: Big City Cola
+006F-E: Cola urbana
+0070: Big City Burger
+0070-E: Hamburguesa urbana
+0071: Bag of Big City øries
+0071-E: ùatatas urbanas
+0072: Doggy Biscuit
+0072-E: Galleta de perro
+0073: Doggy Jerky
+0073-E: Carne de perro
+0074: White Croissant
+0074-E: Cruasán blanco
+0075: Cup of Pork Noodles
+0075-E: Bol de puercofideos
+0076: Pork Stew
+0076-E: EŠtofado de cerdo
+0077: Sincerity Dumplings
+0077-E: Bolitas•sinceƒas
+0078: Stƒawberry•ôofu
+0078-E: ôofu de•fresa
+0079: Lucky Rice
+0079-E: Arroz•afortunado
+007A: Lotto Meal
+007A-E: Comida lotería
+007B: Jumbo Shrimp Soup
+007B-E: Sopa de langoŠta
+007C: Giant Abalone Steak
+007C-E: Filete gigante
+007D: Double Jerky
+007D-E: ôerneƒa doble
+007E: Grilled Chicken
+007E-E: Pollo a la plancha
+007F: Grilled Fish
+007F-E: Pescado a la plancha
+0080: ùaŠta with a ùaŠt
+0080-E: ùaŠta con pasado
+0081: øavorite Pizza
+0081-E: Pizza predilecta
+0082: King Burger
+0082-E: Hamburguesa real
+0083: BeefŠteak
+0083-E: BiŠtec
+0084: Rich Kid Stew
+0084-E: EŠtofado de niño pÎjo
+0085: Rich ùarfait
+0085-E: Batido pÎjo
+0086: Hot Dog Sushi
+0086-E: Perrito de sushi
+0087: Magic Gelatin
+0087-E: Gelatina mágica
+0088: Magic ôart
+0088-E: ôartaleta mágica
+0089: Magic Pudding
+0089-E: Pudin mágico
+008A: Magic Cake
+008A-E: ùaŠtel mágico
+008B: Antidote
+008B-E: Antídoto
+008C: Anti-ùaƒalysis
+008C-E: Anti-paƒálisis
+008D: Alarm Cicada
+008D-E: Cigarƒa despertadoƒa
+008E: øresh Mint
+008E-E: Menta fresca
+008F: ùaper øan
+008F-E: Abanico de papel
+0090: Recollection Bell
+0090-E: Campana memoria
+0091: Eye Drops
+0091-E: Colirio
+0092: Flea Powder
+0092-E: Polvo antipulgas
+0093: Secret Herb
+0093-E: Hierba secreta
+0094: Cup of Lifenoodles
+0094-E: ôaza de•vidafideos
+0095: Hot Spring Egg
+0095-E: Huevo•termal
+0096: Thunder Bomb
+0096-E: Bomba trueno
+0097: Running Bomb
+0097-E: Corre-bomba
+0098: Sprinting Bomb
+0098-E: Esprinta-bomba
+0099: Pencil Rocket
+0099-E: Lápiz cohete
+009A: Bomb
+009A-E: Bomba
+009B: Super Bomb
+009B-E: Súper•bomba
+009C: New Ÿear's Eve Bomb
+009C-E: Bomba de NocheviÊja
+009D: Honey Shower
+009D-E: Ducha melífeƒa
+009E: Ancient Banana
+009E-E: Plátano pocho
+009F: Doorknob
+009F-E: Picaporte
+00A0: Bug Spƒay
+00A0-E: Insecticida
+00A1: Saltwater Gun
+00A1-E: PiŠtola sódica
+00A2: Offense Spƒay
+00A2-E: Spƒay de•fuerza
+00A3: Defense Spƒay
+00A3-E: Spƒay de defensa
+00A4: Enemy Bufferizer
+00A4-E: øortificador
+00A5: Enemy Wimperizer
+00A5-E: EncanÎjador
+00A6: Attack Attƒactor
+00A6-E: Altavoz de ataque
+00A7: Made-Ÿou-Look
+00A7-E: Picas-T
+00A8: Dƒagonfly
+00A8-E: Libélula
+00A9: Silver Dƒagonfly
+00A9-E: Libélula plateada
+00AA: Chick
+00AA-E: Polluelo
+00AB: Chicken
+00AB-E: Gallina
+00AC: Pickled Veggie Plate
+00AC-E: Combinado•vegetal
+00AD: Meteotite
+00AD-E: Meteotita
+00AE: øriend's•Ÿo-Ÿo
+00AE-E: Ÿoyó de amigo
+00AF: Dƒago øang
+00AF-E: Colmillo Dƒago
+00B0: Dung
+00B0-E: Boñiga
+00B1: Dolphin Ossicle
+00B1-E: Osículo de delfín
+00B2: Spiky Weapon
+00B2-E: Ÿoyó punzante
+00B3: Knit Sweater
+00B3-E: Jersey de punto
+00B4: DCMC Boxers
+00B4-E: Calzones DCMC
+00B5: Magic Pendant
+00B5-E: Colgante mágico
+00B6: Encouƒaging Words
+00B6-E: ùalabƒas de ánimo
+00B7: Baked Ÿam
+00B7-E: Boniato asado
+00B8: Mole Cricket Brother
+00B8-E: Grillo•topo•junior
+00B9: Hermit Cƒab Shell
+00B9-E: Concha c. ermitaño
+00BA: Suspicious•ôea
+00BA-E: ôé sospechoso
+00BB: Flame Pendant
+00BB-E: Colgante•flamíguero
+00BC: Ice Pendant
+00BC-E: Colgante gélido
+00BD: Thunder Pendant
+00BD-E: Colgante•fulminante
+00BE: Couƒage Badge
+00BE-E: Broche del coƒaje
+00BF: Souvenir Dress
+00BF-E: VeŠtido souvenir
+00C0: Pencil Eƒaser
+00C0-E: Borƒa-lápices
+00C1: øƒanklin Badge
+00C1-E: Broche øƒanklin
+00C2: Kid's Shirt
+00C2-E: Camiseta infantil
+00C3: Good Kid's Shirt
+00C3-E: Camiseta niño bueno
+00C4: Kid's Hat
+00C4-E: Gorƒa infantil
+00C5: Jar•of Ÿummy Pickles
+00C5-E: Pepinillos•sabrosos
+00C6: Red Hat
+00C6-E: Sombrero rÒjo
+00C7: White Ribbon
+00C7-E: Lazo blanco
+00C8: Bird
+00C8-E: ùájaro
+00C9: Memory Snake
+00C9-E: Memoria de ofidio
+00CA: Waters of Time
+00CA-E: Aguas del•tiempo
+00CB: Stinkbug's Memory
+00CB-E: Memoria de chinche
+00CC: Phrygia's Notebook
+00CC-E: Cuaderno de ørigia
+00CD: Shield Snatcher
+00CD-E: Roba-escudos
+00CE: ôeŠt
+00CE-E: ôeŠt
+00CF: EMPTY
+00CF-E: NADA
+00D0: EMPTY
+00D0-E: NADA
+00D1: EMPTY
+00D1-E: NADA
+00D2: ôrivia Card 1
+00D2-E: Carta enigma 1
+00D3: ôrivia Card 2
+00D3-E: Carta enigma 2
+00D4: ôrivia Card 3
+00D4-E: Carta enigma 3
+00D5: ôrivia Card 4
+00D5-E: Carta enigma 4
+00D6: Wall Staples
+00D6-E: Clavos de pared
+00D7: Siren Beetle
+00D7-E: Ciervo zumbante
+00D8: Smoke Bomb
+00D8-E: Bomba de humo
+00D9: Hypno-Pendulum
+00D9-E: Hipno-péndulo
+00DA: Scary Mask
+00DA-E: Máscaƒa suŠto
+00DB: Tickle Stick
+00DB-E: ùalo cosquillero
+00DC: Dƒawbridge Key
+00DC-E: Llave del puente
+00DD: Noble Spittoon
+00DD-E: Escupideƒa noble
+00DE: Pendant
+00DE-E: Colgante
+00DF: Egg of Light
+00DF-E: Huevo de la luz
+00E0: Scƒap of Cloth
+00E0-E: ôrozo de•tela
+00E1: Pig Mark Notebook
+00E1-E: Cuaderno porcino
+00E2: Child's Shoe
+00E2-E: Zapato de niño
+00E3: Hand File
+00E3-E: Lima de uñas
+00E4: Rope Snake
+00E4-E: Serpicuerda
+00E5: Rope Snake DX
+00E5-E: Serpicuerda DX
+00E6: ôƒansceiver
+00E6-E: ôƒansceptor
+00E7: Ticket
+00E7-E: Billete
+00E8: Battle Memory
+00E8-E: BeŠtiario
+00E9: Carrier Pigeon
+00E9-E: ùaloma mensajeƒa
+00EA: Razor•and LipŠtick
+00EA-E: HÒja y pintalabios
+00EB: Ionia's Memento
+00EB-E: Recuerdo de Ionia
+00EC: Doria's Memento
+00EC-E: Recuerdo de Doria
+00ED: Phrygia's Memento
+00ED-E: Recuerdo de ørigia
+00EE: Lydia's Memento
+00EE-E: Recuerdo de Lidia
+00EF: Missy's Memento
+00EF-E: Recuerdo de Missy
+00F0: Aeolia's Memento
+00F0-E: Recuerdo de Aeolia
+00F1: ôazmily Map
+00F1-E: Mapa de•ôazmily
+00F2: Osohe Sketch
+00F2-E: Esbozo de Osohe
+00F3: Underground Map
+00F3-E: Mapa subterƒáneo
+00F4: Railway Map
+00F4-E: Mapa ferroviario
+00F5: Area Map
+00F5-E: Mapa del bosque
+00F6: Attic Guide
+00F6-E: Plano del ático
+00F7: Saturn Valley Map
+00F7-E: Mapa del•‡alle Saturn
+00F8: Sea Floor Map
+00F8-E: Mapa del•fondo marino
+00F9: Cave Map
+00F9-E: Mapa de la cue‡a
+00FA: City Map
+00FA-E: Mapa de la ciudad
+00FB: ôower Sketch
+00FB-E: Esbozo de la torre
+00FC: Chimeƒa Lab Map
+00FC-E: Mapa del lab. Quimeƒa
+00FD: Cricket Hole Map
+00FD-E: Mapa de madrigueƒa
+00FE: Highway Map
+00FE-E: Mapa de la autopiŠta
+00FF: øactory Sketch
+00FF-E: Esbozo de la fábrica
