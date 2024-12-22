@@ -19,7 +19,7 @@ Para poder jugar la traducción por tu propia cuenta, necesitarás de dos cosas:
 - El **parche UPS** más reciente en [Releases](https://github.com/DanionelP/Mother-3-Spanish-Translation/releases).
 
 Con todo esto, deberás seguir los siguientes pasos:
-1. Dirígete a la página [(https://www.marcrobledo.com/RomPatcher.js/)].
+1. Dirígete a la página https://www.marcrobledo.com/RomPatcher.js/.
 2. En el apartado "ROM file" deberás seleccionar el archivo de la ROM en japonés.
 3. En el apartado "Patch file" deberás seleccionar el parche.
 4. Dale a "Apply Patch".
