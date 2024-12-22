@@ -16,7 +16,7 @@ Ciertamente, cambia muchas cosas, se tardaría muchísimo en mencionar todas y c
 ## Instalación
 Para poder jugar la traducción por tu propia cuenta, necesitarás de dos cosas:
 - Una ROM del juego en japonés.
-- El **parche** más reciente en [Releases](https://github.com/DanionelP/Mother-3-Spanish-Translation/releases).
+- El **parche UPS** más reciente en [Releases](https://github.com/DanionelP/Mother-3-Spanish-Translation/releases).
 
 Con todo esto, deberás seguir los siguientes pasos:
 1. Dirígete a la página [(https://www.marcrobledo.com/RomPatcher.js/)].
