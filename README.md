@@ -16,7 +16,7 @@ Ciertamente, cambia muchas cosas, se tardaría muchísimo en mencionar todas y c
 ## Instalación
 Para poder jugar la traducción por tu propia cuenta, necesitarás de dos cosas:
 - Una ROM del juego en japonés.
-- El **parche** más reciente en [Releases](/releases).
+- El **parche** más reciente en [Releases](https://github.com/DanionelP/Mother-3-Spanish-Translation/releases).
 
 Con todo esto, deberás seguir los siguientes pasos:
 1. Dirígete a la página [(https://www.marcrobledo.com/RomPatcher.js/)].
@@ -38,5 +38,5 @@ Créditos también, por supuesto, a los creadores de la traducción original:
 Les doy muchas gracias también a todas las personas que me han estado apoyando y asistiendo en el servidor de Discord de la traducción: srgio., Angeleiro, GodlyProsecutor, Pixel_hill, Halosesparta, Porky PK, y muchos más...
 
 ## Contacto
-Si encuentras algún fallo, ves algo que se puede mejorar o simplemente quieres hacer una sugerencia, puedes hacerla a través de la pestaña [Issues](/issues).
+Si encuentras algún fallo, ves algo que se puede mejorar o simplemente quieres hacer una sugerencia, puedes hacerla a través de la pestaña [Issues](https://github.com/DanionelP/Mother-3-Spanish-Translation/issues).
 Si necesitas ayuda para entender cualquier cosa del código de mi traducción (ya bien porque estás haciendo una traducción al español latino u a otro idioma), será mejor contactarme a través de Discord, lugar donde suelo ser más activo. Mi username es **danionel**. ¡Estaré encantado de ayudarte! ^^
