@@ -1,7 +1,7 @@
 # Mother-3-Spanish-Translation
 La traducción al español castellano de Mother 3.
 
-## ¿Qué esta traducción exactamente?
+## ¿Qué es esta traducción exactamente?
 Esta es una traducción sirve como una **actualización a la traducción al español castellano ya existente** que databa del 2011, creada por Jimmytrius y todo su equipo. Podéis ver un historial de todo el proceso de esa traducción [aquí](https://mother3spanish.blogspot.com) (os aseguro que es interesante). Esta nueva traducción incluye muchos cambios y añadidos que mejoran esa traducción antigua.
 
 ### ¿Qué cambia?
