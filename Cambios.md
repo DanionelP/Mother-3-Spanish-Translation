@@ -22,4 +22,36 @@ Parte de los títulos de los capítulos se han mantenido exactamente igual respe
 ## Cambios en los nombres
 - Se ha cambiado gran parte de los nombres de objetos, enemigos y lugares para **quitar parte de las mayúsculas**. Por ejemplo: Leche Cortada -> Leche cortada.
 - Se ha cambiado el nombre de la Torre Porky a **Empire Porky**. Este es muy parecido al nombre que tiene en inglés (Empire Porky Building), además de que así se mantiene la referencia al Empire State.
+- Localizado el nombre del restaurante "Beauty & Tasty" de Nueva Pork. Su nombre ahora es "**Hermoso y sabroso**".
 - Se ha revertido el nombre de Violeta a Violet. Siento que simplemente le queda mejor el nombre sin traducir.
+- El NPC "Sebastian" ahora se llama "Sebastián".
+- Localizado el nombre del Puercareto en la sala del generador de la Torre del trueno. Sheep -> **Ovejo**.
+- Se ha añadido un easter egg en el que Boney puede tener un nombre alternativo si le das dos veces a "No me importa". **Toby**. Esta es una referencia al nombre que le pusieron en la versión española de Super Smash Bros. Brawl. https://es.ssbwiki.com/wiki/Boney#En_Super_Smash_Bros._Brawl
+
+### Cambios en los nombres de los objetos
+Obviando todos los cambios por la "demayusculizaación" de los nombres, los objetos que han recibido cambios en su nombre han sido los siguientes:
+- Amuleto Bantam -> **Amuleto gallina**. Considero el término Bantam como una palabra muy poco conocida por estos lares (yo mismo no lo conocía), así que para mejor comprensión, he decidido darle un nombre más entendible.
+- Té -> **Té lohés**. Este por parte es un intento de darle una traducción al "Innit" de la versión inglesa "Innit Tea". Aunque más bien es un intento de que no quede tan soso el nombre, que no sea sólo "Té".
+- Gorro Cocodrilo -> **Gorro de cocodrilo**. Si hay un motivo por el que se han comido la preposición "de" en este objeto a diferencia de los demás gorros, que sí la tienen, no lo entiendo.
+- Croissant Blanco -> **Cruasán blanco**. Uso de un término en castellano.
+- Estofado Niño Bien -> **Estofado de niño pijo**. Sé que "niño bien" es una expresión que existe en el idioma, pero a mí nunca me ha sonado bien, en mi sincera opinión.
+- Batido de Ricos -> **Batido pijo**. Para que combine mejor con el ya mencionado Estofado de niño pijo.
+- Pudding Mágico -> **Pudin mágico**. El mismo motivo que el Cruasán blanco.
+- Super Bomba -> **Súper bomba**. Personalmente prefiero el término súper con tilde.
+- En los tres objetos de Yo-yo. Yo-yo -> **Yoyó**. Encuentro la grafía "yoyó" más correcta.
+- Colgante del Trueno -> **Colgante fulminante**. Para que concuerde mejor con los otros dos colgantes, el flamíguero y el gélido.
+- Cinta Blanca -> **Lazo blanco**. Para que concuerde con todos los demás lazos.
+- Teléfono Móvil -> **Transceptor**. Con teléfono móvil, da la sensación de que Lucas ya sabe lo que es un teléfono. O no, no sé, al menos a mí me da la sensación.
+
+### Cambios en los nombres de los enemigos
+Obviando la "demayusculización", los nombres de enemigos que han cambiado son:
+- Don Genedor -> **Don Genetor**. Siempre pensé que esa "d" le quitaba fuerza a la pronunciación del nombre. Espero que con la t, el nombre suene un poco más fuerte.
+- Exterminador Porcino -> **C.E.R.D.O**. Gracias a srgio. por la idea del nombre, que significa "Cyborg de Exterminio Radical, Destructor y Opresor".
+- Rinocohete V.2 -> **Rinocohete v2**. Si queréis mi más honesta opinión, me daba toc ver el punto entre la "V" y el 2.
+- Mosca Fogosa -> **Flamidóptero**. Para que fuese consistente con el nombre de su variación, Pirodóptero.
+- Metalimono Misterioso -> **Metalmono misterioso**. Este es muy gracioso, porque no me di cuenta de que el nombre en la traducción antigua era "Metalimono" hasta que me puse a escribir esto. Yo siempre pensaba que era "Metalmono". Bueno, ya que he lanzado la traducción, creo que se va a quedar así. :P
+- Doña Laverta -> **Doña Laventa**... No me lo estoy creyendo ni yo. Acaba de pasar. Acaba de pasar otra vez. Creía que era "Laventa"...
+- Zombi -> **Señor zombi**. Con este nombre suena más gracioso. Gracias a Angeleiro por la idea.
+- Mujer Zombi -> **Señora zombi**. Para que concuerde con "Señor zombi".
+- Semi-Mecha-León -> **Casi-Mecha-León**. Para que se parezca más al nombre en inglés "Almost-Mecha-Lion".
+- Soldado Puercareto -> **Puercareto**. Siento que está mejor sin el "Soldado".
