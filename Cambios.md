@@ -39,7 +39,7 @@ Considero que este es el aspecto en el que más flaquea la traducción. Las limi
 - Se ha añadido un easter egg en el que Boney puede tener un nombre alternativo si le das dos veces a "No me importa". **Toby**. Esta es una referencia al nombre que le pusieron en la versión española de Super Smash Bros. Brawl. https://es.ssbwiki.com/wiki/Boney#En_Super_Smash_Bros._Brawl
 
 ### Cambios en los nombres de los objetos
-Obviando todos los cambios por la "demayusculizaación" de los nombres, los objetos que han recibido cambios en su nombre han sido los siguientes:
+Obviando todos los cambios por la "demayusculización" de los nombres, los objetos que han recibido cambios en su nombre han sido los siguientes:
 - Amuleto Bantam -> **Amuleto gallina**. Considero el término Bantam como una palabra muy poco conocida por estos lares (yo mismo no lo conocía), así que para mejor comprensión, he decidido darle un nombre más entendible.
 - Té -> **Té lohés**. Este por parte es un intento de darle una traducción al "Innit" de la versión inglesa "Innit Tea". Aunque más bien es un intento de que no quede tan soso el nombre, que no sea sólo "Té".
 - Gorro Cocodrilo -> **Gorro de cocodrilo**. Si hay un motivo por el que se han comido la preposición "de" en este objeto a diferencia de los demás gorros, que sí la tienen, no lo entiendo.
