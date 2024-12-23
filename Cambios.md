@@ -1,5 +1,6 @@
 # Cambios de la traducción
 Estos son todos y cada uno de los cambios de esta nueva traducción respecto a la antigua. Espero que no se me olvide nada x).
+**LEE ESTO SOLAMENTE SI YA TE HAS PASADO EL JUEGO ALGUNA VEZ. SI VAS A JUGAR AL JUEGO POR PRIMERA VEZ CON MI TRADUCCIÓN, NO LEAS ESTO, YA QUE CONTIENE SPOILERS.**
 
 ## Cambios gráficos
 Todos los gráficos que no estaban traducidos ahora lo están, incluyendo cosas como la pantalla de título, la advertencia sobre salud y seguridad, los tilesets que tienen texto y más.
@@ -18,6 +19,15 @@ Parte de los títulos de los capítulos se han mantenido exactamente igual respe
 - Capítulo 7: Las Siete Agujas -> Las siete Agujas
 
 ![Capítulo 4](https://github.com/user-attachments/assets/2b431e6d-606c-4a48-b5b7-8fcd8ffb6b98)  ![Capítulo 5](https://github.com/user-attachments/assets/a10090b7-217b-4074-8689-0af41d26cf21)  ![Capítulo 7](https://github.com/user-attachments/assets/89597740-81fc-47f7-853f-d1c64185cbd4)
+
+## Clips de voz
+El juego cuenta con dos clips de voz. Uno cuando se usa el objeto Picas-T, y otro cuando OJ y Lucas juegan al Piedra-Papel-Tijeras (Cuarzo-Pergamino-Tenazas ahora) al final del capítulo 4. Ambos han sido doblados. Gracias a [Sam_TheSamwich](https://www.instagram.com/sam_thesamwich/) y a su hermano David por las voces de Lucas y OJ, respectivamente.
+
+https://github.com/user-attachments/assets/c1e3d507-9286-4160-85ff-0bc8e6469e94  
+
+https://github.com/user-attachments/assets/5ed3d556-a7df-42af-abb3-6cedb387a0f0
+
+Considero que este es el aspecto en el que más flaquea la traducción. Las limitaciones de espacio y de la GBA no me permiten hacer gran cosa. Eso sí, intentaré buscar maneras de mejorar el audio para próximas versiones. ^^
 
 ## Cambios en los nombres
 - Se ha cambiado gran parte de los nombres de objetos, enemigos y lugares para **quitar parte de las mayúsculas**. Por ejemplo: Leche Cortada -> Leche cortada.
@@ -55,3 +65,44 @@ Obviando la "demayusculización", los nombres de enemigos que han cambiado son:
 - Mujer Zombi -> **Señora zombi**. Para que concuerde con "Señor zombi".
 - Semi-Mecha-León -> **Casi-Mecha-León**. Para que se parezca más al nombre en inglés "Almost-Mecha-Lion".
 - Soldado Puercareto -> **Puercareto**. Siento que está mejor sin el "Soldado".
+
+## Cambios en la redacción
+- Por lo general, esta traducción tiene un carácter más informal que la existente, y esto se ha logrado a través de varios factores, pero los 3 realmente relevantes y que siguen unas normas fijas son los siguientes:
+  - Cambio de algunos verbos, como por ejemplo, el verbo "tratar(se) de (algo)" por el verbo "ser". (Sí, te estoy mirando a ti, "Se trata de Claus." de la batalla final).
+  - Cambio de muchas formas verbales simples a su forma compuesta. Esto también aplica al texto de batalla. Por ejemplo, "fuiste" sería "has sido".
+  - Cambio de muchas formas verbales de futuro simple a la perífrasis verbal "(verbo ir) a (infinitivo)". Por ejemplo, "saldremos" sería "vamos a salir". Claro que esta última no es aplicable a muchos casos, solo se le ha aplicado a aquellos en los que sonase bien.
+- He creado todo un sistema de adecuación del tamaño de los espacios y los espacios entre letras. Si abres cualquier archivo de texto de la traducción, verás muchos caracteres raros. Lo desarrollaré en un documento que escribiré en un futuro.
+- Localización de algunas bromas y gags recurrentes. Algunos ejemplos son:
+  - Nippolyte ahora llama "Fulanito" a Duster, en vez de "Como-Se-Llame"
+  - El mote de Leder ahora es "Longanizo".
+  - El gag recurrente del capítulo 1 "ennegrecido" ahora es "negro como el carbón".
+  - Expansión de la interjección de Kumatora "¡Cuernos!" (ahora lo dice más).
+  - El juego de "Piedra-Papel-Tijeras" que juegan los DCMC contra Lucas al final del capítulo 4 ahora se llama "Cuarzo-Pergamino-Tenazas". Este cambio se ha debido a que en inglés el nombre no concuerda con el nombre al que se le conoce popularmente al juego ("Stone-Sheet-Clippers"). Este nuevo nombre es una referencia a Historias Corrientes.
+  - El que considero mi cambio favorito, y uno de los motivos por el que me empeñé en hacer una traducción:
+  
+![Monocuestradan't](https://github.com/user-attachments/assets/7cda71ec-60e6-472d-8b19-7d996eca2f0f)
+
+- Correción de algunos errores ortográficos que había (aunque estoy segurísimo de que he provocado alguno sin querer. Si encuentras uno, contáctame).
+- Eliminación de tildes en muchos casos que ahora serían considerados incorrectos ("éste") o que de plano eran incorrectos ("aquél", "sóis").
+- Se han agregado las tildes y la letra ñ a los diálogos de los Mr. Saturn.
+- Se ha cambiado la forma en la que determinados personajes se refieren a las Magipsis. Esto se ha hecho en base a que tenga sentido que se le refieran de cierta forma dada la relación que tienen estos personajes con ellas.
+- Cambio en la formulación de las preguntas que se le hacen al jugador. Ahora muchas dicen "¿Quieres...?".
+- Cambios en varios diálogos para hacer que se sientan más naturales.
+
+## Cambios en la fuente
+- Se ha modificado la forma que tienen las vocales con tilde para (espero) mejorarlas.
+- Se han creado vocales tildadas y letra ñ para la fuente Saturn.
+- Se ha modificado el número de espacios que contienen diversos caracteres, como el cierre de exclamación (!).
+- Se ha creado un caracter que consiste de un píxel de espacio, un caracter que consiste en 2, y un caracter que es un punto pero que empieza un píxel antes.
+- Se ha creado un caracter por cada letra que consiste en la misma letra pero con un píxel menos de espacio. Esto se ha hecho para el ya mencionado sistema de espaciado.
+
+## Cambios en los artículos
+- Los enemigos ahora cuentan con 8 artículos distintos, en lugar de los 5 que había anteriormente. El cambio más notorio de esto es que ya no se mostrarán determinadas situaciones como "a el" o "de el", sino que se mostrarán con su forma acortada, "al" y "del".
+- Los objetos siguen contando con 8 artículos, como en la anterior traducción.
+
+## Solución de errores
+- Sólo hay 1 punto que mencionar aquí. El infame "**bug de la tienda**". ¡Ya no está! Ahora, cuando compras nuevo equipamiento, ya no te preguntará si quieres equipártelo y si quieres vender el anterior a la vez. Lo cierto es que no sé cómo se dio el bug en la traducción original, ya que esta traducción en realidad es una reconstrucción desde 0 de esa traducción. Pero ya que no está, ya no nos tendremos que preocupar por él.
+
+
+
+Este último cambio no es directamente dado por la traducción, es más bien por la base en la que está hecha. Esta traducción, al estar basada en la versión [**1.3 de la traducción inglesa**](https://github.com/Lorenzooone/M3_Eng_1_3/), contiene todos los cambios, solución de errores y optimizaciones que se dieron con esta. Se pueden ver [aquí](https://mother3.fobby.net/blog/2021/04/19/mother3-earthbound2-english-fan-translation-v1-3/).
