@@ -59,8 +59,6 @@ Obviando la "demayusculización", los nombres de enemigos que han cambiado son:
 - Exterminador Porcino -> **C.E.R.D.O**. Gracias a srgio. por la idea del nombre, que significa "Cyborg de Exterminio Radical, Destructor y Opresor".
 - Rinocohete V.2 -> **Rinocohete v2**. Si queréis mi más honesta opinión, me daba toc ver el punto entre la "V" y el 2.
 - Mosca Fogosa -> **Flamidóptero**. Para que fuese consistente con el nombre de su variación, Pirodóptero.
-- Metalimono Misterioso -> **Metalmono misterioso**. Este es muy gracioso, porque no me di cuenta de que el nombre en la traducción antigua era "Metalimono" hasta que me puse a escribir esto. Yo siempre pensaba que era "Metalmono". Bueno, ya que he lanzado la traducción, creo que se va a quedar así. :P
-- Doña Laverta -> **Doña Laventa**... No me lo estoy creyendo ni yo. Acaba de pasar. Acaba de pasar otra vez. Creía que era "Laventa"...
 - Zombi -> **Señor zombi**. Con este nombre suena más gracioso. Gracias a Angeleiro por la idea.
 - Mujer Zombi -> **Señora zombi**. Para que concuerde con "Señor zombi".
 - Semi-Mecha-León -> **Casi-Mecha-León**. Para que se parezca más al nombre en inglés "Almost-Mecha-Lion".
@@ -73,7 +71,7 @@ Obviando la "demayusculización", los nombres de enemigos que han cambiado son:
   - Cambio de muchas formas verbales de futuro simple a la perífrasis verbal "(verbo ir) a (infinitivo)". Por ejemplo, "saldremos" sería "vamos a salir". Claro que esta última no es aplicable a muchos casos, solo se le ha aplicado a aquellos en los que sonase bien.
 - He creado todo un sistema de adecuación del tamaño de los espacios y los espacios entre letras. Si abres cualquier archivo de texto de la traducción, verás muchos caracteres raros. Lo desarrollaré en un documento que escribiré en un futuro.
 - Localización de algunas bromas y gags recurrentes. Algunos ejemplos son:
-  - Nippolyte ahora llama "Fulanito" a Duster, en vez de "Como-Se-Llame"
+  - Nippolyte ahora llama "Fulanito" a Duster, en vez de "Como-Se-Llame".
   - El mote de Leder ahora es "Longanizo".
   - El gag recurrente del capítulo 1 "ennegrecido" ahora es "negro como el carbón".
   - Expansión de la interjección de Kumatora "¡Cuernos!" (ahora lo dice más).

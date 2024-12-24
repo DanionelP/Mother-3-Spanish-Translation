@@ -475,7 +475,7 @@ de la
 a la 
 a
 la 
-// Metalmono miŠterioso
+// Metalimono miŠterioso
 Un 
 un 
 El 
@@ -619,7 +619,7 @@ del
 al 
 o
 el 
-// Doña Laventa
+// Doña Laverta
 -
 -
 -
@@ -637,7 +637,7 @@ del
 al 
 o
 el 
-// Señor•zombi
+// Señor zombi
 Un 
 un 
 El 

@@ -447,7 +447,7 @@
 00DD: The older twin brother.[BREAK]An energetic boy.[END]
 00DD-E: El mayor•de los gemelos.[BREAK]Un chico muy enérgico.[END]
 00DE: The strong, kind,[BREAK]and dependable father.[END]
-00DE-E: øuerte y amable.[BREAK]Un padre de confianza.[END]
+00DE-E: øuerte y amable.[BREAK]Un padre de confianza·.[END]
 00DF: The beloved mother![END]
 00DF-E: ¡La querida madre![END]
 00E0: The brave and smart dog.[END]

@@ -107,7 +107,7 @@
 0034: Carefree Jellyfish
 0034-E: Medusa despreocupada
 0035: MyŠtery Metal Monkey
-0035-E: Metalmono miŠterioso
+0035-E: Metalimono miŠterioso
 0036: Cƒag Lizard
 0036-E: Lagarto escarpado
 0037: Spud Bug
@@ -139,7 +139,7 @@
 0044: øroŠted Bun
 0044-E: Copito
 0045: Mrs. La‡a
-0045-E: Doña Laventa
+0045-E: Doña Laverta
 0046: Magman
 0046-E: Volcánido
 0047: Zombie Man
