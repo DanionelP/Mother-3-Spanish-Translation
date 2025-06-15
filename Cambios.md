@@ -74,7 +74,7 @@ Obviando la "demayusculización", los nombres de enemigos que han cambiado son:
   - Cambio de algunos verbos, como por ejemplo, el verbo "tratar(se) de (algo)" por el verbo "ser". (Sí, te estoy mirando a ti, "Se trata de Claus." de la batalla final).
   - Cambio de muchas formas verbales simples a su forma compuesta. Esto también aplica al texto de batalla. Por ejemplo, "fuiste" sería "has sido".
   - Cambio de muchas formas verbales de futuro simple a la perífrasis verbal "(verbo ir) a (infinitivo)". Por ejemplo, "saldremos" sería "vamos a salir". Claro que esta última no es aplicable a muchos casos, solo se le ha aplicado a aquellos en los que sonase bien.
-- He creado todo un sistema de adecuación del tamaño de los espacios y los espacios entre letras. Si abres cualquier archivo de texto de la traducción, verás muchos caracteres extraños. Lo desarrollaré en un documento que escribiré en un futuro.
+- He creado todo un sistema de adecuación del tamaño de los espacios y los espacios entre letras. Si abres cualquier archivo de texto de la traducción, verás muchos caracteres extraños. Puedes ver más información [aquí](/Código/textconvert/Espaciado.md).
 - Localización de algunas bromas y gags recurrentes. Algunos ejemplos son:
   - Nippolyte ahora llama "Fulanito" a Duster, en vez de "Como-Se-Llame".
   - El mote de Leder ahora es "Longanizo".
