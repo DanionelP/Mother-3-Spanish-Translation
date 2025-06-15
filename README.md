@@ -36,6 +36,7 @@ Créditos también, por supuesto, a los creadores de la traducción original:
 - YellowSlime
 
 Les doy muchas gracias también a todas las personas que me han estado apoyando y asistiendo en el servidor de Discord de la traducción: srgio., Angeleiro, GodlyProsecutor, Pixel_hill, Halosesparta, Porky PK, y muchos más...
+Muchas gracias también a Shedinja Ultra, que me llegó a mandar un documento de 24 páginas con sugerencias para mejorar la traducción. Lo aprecio mucho.
 
 ## Contacto
 Si encuentras algún fallo, ves algo que se puede mejorar o simplemente quieres hacer una sugerencia, puedes hacerla a través de la pestaña [Issues](https://github.com/DanionelP/Mother-3-Spanish-Translation/issues).
