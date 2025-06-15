@@ -18,16 +18,20 @@ Parte de los títulos de los capítulos se han mantenido exactamente igual respe
 - Capítulo 5: Torre del Trueno -> La Torre del Trueno
 - Capítulo 7: Las Siete Agujas -> Las siete Agujas
 
-![Capítulo 4](https://github.com/user-attachments/assets/2b431e6d-606c-4a48-b5b7-8fcd8ffb6b98)  ![Capítulo 5](https://github.com/user-attachments/assets/a10090b7-217b-4074-8689-0af41d26cf21)  ![Capítulo 7](https://github.com/user-attachments/assets/89597740-81fc-47f7-853f-d1c64185cbd4)
+![Capítulo 4](https://github.com/user-attachments/assets/97b87214-6fc2-41ed-aefa-dd216c59b160)  ![Capítulo 5](https://github.com/user-attachments/assets/51395094-0903-4752-9760-392c820f4263)  ![Capítulo 7](https://github.com/user-attachments/assets/89597740-81fc-47f7-853f-d1c64185cbd4)
+
 
 ## Clips de voz
 El juego cuenta con dos clips de voz. Uno cuando se usa el objeto Picas-T, y otro cuando OJ y Lucas juegan al Piedra-Papel-Tijeras (Cuarzo-Pergamino-Tenazas ahora) al final del capítulo 4. Ambos han sido doblados. Gracias a [Sam_TheSamwich](https://www.instagram.com/sam_thesamwich/) y a su hermano David por las voces de Lucas y OJ, respectivamente.
 
-https://github.com/user-attachments/assets/c1e3d507-9286-4160-85ff-0bc8e6469e94  
 
-https://github.com/user-attachments/assets/5ed3d556-a7df-42af-abb3-6cedb387a0f0
+https://github.com/user-attachments/assets/6df1124e-ee04-4002-91e3-ba03a84e7f0e
 
-Considero que este es el aspecto en el que más flaquea la traducción. Las limitaciones de espacio y de la GBA no me permiten hacer gran cosa. Eso sí, intentaré buscar maneras de mejorar el audio para próximas versiones. ^^
+
+
+https://github.com/user-attachments/assets/63bd3f5b-b22e-42cd-a145-3b08bedcedde
+
+
 
 ## Cambios en los nombres
 - Se ha cambiado gran parte de los nombres de objetos y enemigos para **quitar parte de las mayúsculas**. Por ejemplo: Leche Cortada -> Leche cortada.
@@ -76,8 +80,8 @@ Obviando la "demayusculización", los nombres de enemigos que han cambiado son:
   - Expansión de la interjección de Kumatora "¡Cuernos!" (ahora lo dice más).
   - El juego de "Piedra-Papel-Tijeras" que juegan los DCMC contra Lucas al final del capítulo 4 ahora se llama "Cuarzo-Pergamino-Tenazas". Este cambio se ha debido a que en inglés el nombre no concuerda con el nombre al que se le conoce popularmente al juego ("Stone-Sheet-Clippers"). Este nuevo nombre es una referencia a Historias Corrientes.
   - El que considero mi cambio favorito, y uno de los motivos por el que me empeñé en hacer una traducción:
-  
-![Monocuestradan't](https://github.com/user-attachments/assets/7cda71ec-60e6-472d-8b19-7d996eca2f0f)
+
+![Monocuestradan't](https://github.com/user-attachments/assets/e68253a6-34bd-4610-921b-e9944c89dac0)
 
 - Correción de algunos errores ortográficos que había (aunque estoy segurísimo de que he provocado alguno sin querer. Si encuentras uno, contáctame).
 - Eliminación de tildes en muchos casos que ahora serían considerados incorrectos ("éste") o que de plano eran incorrectos ("aquél", "sóis").
