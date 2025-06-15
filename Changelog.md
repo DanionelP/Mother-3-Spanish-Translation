@@ -3,12 +3,17 @@
 ## Cambios gráficos
 - Se han modificado los gráficos de los pósters del Club Titibú y una señal de la autopista para que incorporasen la apertura de exclamación.
 - Modificados los sprites del K4N1N0 para rehacerlos a la versión original japonesa.
-- Modificado el sprite trasero del Rompecorazones para que haga honor a su nombre. (poner imagen)
+- Modificado el sprite trasero del Rompecorazones para que haga honor a su nombre (imagen).
 - Modificados los gráficos de los capítulos conforme a unos cambios que mencionaré más adelante.
 - Modificado el disclaimer de la traducción para que indicase la nueva versión (1.2).
 - Se ha modificado levemente el gráfico de caja de batalla para cambiar la "V" de "PV".
 - Arreglado un error en la pantalla de menú principal por el que la palabra "Guion" llevaba tilde.
 - Modificado un gráfico del Empire Porky para adecuarse más al idioma (antes ponía Porky Empire, ahora pone Empire Porky).
+
+![image](https://github.com/user-attachments/assets/52d5a4cf-e16d-4a69-b13c-d02631c98a3d)
+
+
+
 
 ## Cambios en el texto
 - Se ha añadido un bullet point hueco que se usa en todo diálogo dicho por el narrador. Es así como funciona en la versión japonesa y este cambio se ha visto motivado por la traducción francesa.
