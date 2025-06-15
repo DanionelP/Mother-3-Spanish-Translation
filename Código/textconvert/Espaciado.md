@@ -8,6 +8,15 @@ El primero es el más sencillo de los dos. El criterio se coge de [betweenwords.
 
 Cuando se busca el espaciado entre dos letras de la misma palabra, se usa el archivo [sameword.txt](/Código/textconvert/sameword.txt). Para muchos de los caracteres de la fuente del juego, he programado otro carácter igual, con la diferencia de tener el grosor de carácter disminuido en 1 píxel. Para cada combinación de dos caracteres, se busca en la lista correspondiente al primer carácter. Si el segundo carácter forma parte de esa lista, el primer carácter se reemplazará por su versión con menos grosor.
 
+Texto normalizado:
+
+![Normalizado](https://github.com/user-attachments/assets/0ac8be82-29bc-4224-bf62-6d4a3b075d78)
+
+Texto formateado:
+
+![Formateado](https://github.com/user-attachments/assets/893cc89a-277e-429f-bfd3-fe4bb83ebc59)
+
+
 ## ¿Cómo se hace?
 La conversión es totalmente automática, y se hace a través del script [conversor.py](/Código/textconvert/conversor.py). Este tiene dos modos: **normalizar** y **formatear**. La primera opción devuelve el texto a su estado original, sin ninguna conversión hecha y más legible (que por cierto, hay una versión del texto del juego sin formatear [aquí](/Código/texto%20sin%20formatear). El modo formatear es para hacer toda la conversión que ya he explicado.
 
