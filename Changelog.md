@@ -26,7 +26,7 @@
 
 ## Cambios en los nombres
 - Revertidos algunos cambios en la capitalización de nombres de lugares. Al tratarse de nombres de lugares específicos, he decidido ponerle mayúsculas en todas las palabras, ya que así se ve mejor.
-  - Por ejemplo: castillo Osohe -> Castillo Osohe; club Titibú -> Club Titibú; Torre del trueno -> Torre del Trueno. Estos cambios también se reflejan en los títulos de los capítulos 3 y 4.
+  - Por ejemplo: castillo Osohe -> Castillo Osohe; club Titibú -> Club Titibú; Torre del trueno -> Torre del Trueno. Estos cambios también se reflejan en los títulos de los capítulos 4 y 5.
 - De esta misma forma, Quimera refinitiva -> Quimera Refinitiva.
 - Mermar fuerza/defensa -> Fuerza/Defensa minus (para que concuerde con Fuerza/defensa plus).
 - Enemigos:
