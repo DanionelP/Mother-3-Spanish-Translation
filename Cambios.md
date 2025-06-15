@@ -41,6 +41,7 @@ https://github.com/user-attachments/assets/63bd3f5b-b22e-42cd-a145-3b08bedcedde
 - El NPC "Sebastian" ahora se llama "Sebastián".
 - Localizado el nombre del Puercareto en la sala del generador de la Torre del trueno. Sheep -> **Ovejo**.
 - Se ha añadido un easter egg en el que Boney puede tener un nombre alternativo si le das dos veces a "No me importa". **Toby**. Esta es una referencia al nombre que le pusieron en la versión española de Super Smash Bros. Brawl. https://es.ssbwiki.com/wiki/Boney#En_Super_Smash_Bros._Brawl
+- Se ha cambiado el nombre de la técnica PSI "Mermar fuerza/defensa" a "**Fuerza/Defensa minus**". Esto es para que concuerde con "Fuerza/Defensa plus".
 
 ### Cambios en los nombres de los objetos
 Obviando todos los cambios por la "demayusculización" de los nombres, los objetos que han recibido cambios en su nombre han sido los siguientes:
@@ -48,7 +49,7 @@ Obviando todos los cambios por la "demayusculización" de los nombres, los objet
 - Té -> **Té quila**. Intento de cambiar el "Innit" de la versión inglesa por otro juego de palabras.
 - Gorro Cocodrilo -> **Gorro de cocodrilo**. Si hay un motivo por el que se han comido la preposición "de" en este objeto a diferencia de los demás gorros, que sí la tienen, no lo entiendo.
 - Croissant Blanco -> **Cruasán blanco**; Pudding Mágico -> **Pudin mágico**; Spray de fuerza/defensa -> **Espray de fuerza/defensa**. Uso de una grafía en castellano.
-- Estofado Niño Bien -> **Estofado de pijo**. Sé que "niño bien" es una expresión que existe en el idioma, pero a mí nunca me ha sonado bien, en mi sincera opinión.
+- Estofado Niño Bien -> **Estofado pijo**. Sé que "niño bien" es una expresión que existe en el idioma, pero a mí nunca me ha sonado bien, en mi sincera opinión.
 - Batido de Ricos -> **Batido pijo**. Para que combine mejor con el ya mencionado Estofado de pijo.
 - Anti-parálisis -> **Antiparálisis**; Roba-escudos -> **Robaescudos**; Borra-lápices -> **Borralápices**; Corre-bomba -> **Correbomba**; Esprinta-bomba -> **Esprintabomba**; Super bomba -> **Superbomba** (quedan mejor sin guion y/o junto).
 - En los tres objetos de Yo-yo. Yo-yo -> **Yoyó**. Encuentro la grafía "yoyó" más correcta.

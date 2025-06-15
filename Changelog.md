@@ -28,6 +28,7 @@
 - Revertidos algunos cambios en la capitalización de nombres de lugares. Al tratarse de nombres de lugares específicos, he decidido ponerle mayúsculas en todas las palabras, ya que así se ve mejor.
   - Por ejemplo: castillo Osohe -> Castillo Osohe; club Titibú -> Club Titibú; Torre del trueno -> Torre del Trueno. Estos cambios también se reflejan en los títulos de los capítulos 3 y 4.
 - De esta misma forma, Quimera refinitiva -> Quimera Refinitiva.
+- Mermar fuerza/defensa -> Fuerza/Defensa minus (para que concuerde con Fuerza/defensa plus).
 - Enemigos:
   - Flamidóptero -> Flamidíptero (para que concordase con la familia de los dípteros).
   - Pirodóptero -> Pirodíptero (lo mismo).
@@ -43,5 +44,5 @@
   - Mapa del lab. Quimera -> Mapa Lab. Quimera; Mapa del fondo marino -> Mapa fondo marino (al ser tan largo el nombre, ocasionaba un bug al abrir el bestiario si el nombre del mapa del fondo marino estaba en pantalla).
   
 ## Otros
-- Se han mejorado ambos clips de audio del juego.
+- Se han mejorado ambos clips de audio del juego. Se pueden ver [aquí](/Cambios.md#clips-de-voz).
 - Se ha solucionado un bug por el que a veces el texto cuando se suspende el juego no se mostraba correctamente y provocaba corrupciones en el mapa.
