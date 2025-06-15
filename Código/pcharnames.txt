@@ -1,4 +1,4 @@
-// All names here must be 8 letters or less
+// Todos los nombres deben tener 8 caracteres o menos
 
 00:(EMPTY)
 00-E:(NADA)
@@ -6,9 +6,9 @@
 01-E:Flint
 02:Lucas
 02-E:Lucas
-03:DuŠter
+03:Duster
 03-E:DuŠteƒ
-04:Kumatoƒa
+04:Kumatora
 04-E:Kumatoƒa
 05:Boney
 05-E:Boney
@@ -20,15 +20,15 @@
 08-E:Thomas
 09:Ionia
 09-E:Ionia
-0A:øuel
+0A:Fuel
 0A-E:øuel
 0B:Alec
 0B-E:Alec
-0C:øassad
+0C:Fassad
 0C-E:øalhaz
 0D:Claus
 0D-E:Claus
 0E:(EMPTY)
 0E-E:(NADA)
 0F:(EMPTY)
-0F-E:(NADA)
+0ø-E:(NADA)

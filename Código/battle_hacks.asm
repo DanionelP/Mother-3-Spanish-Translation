@@ -669,6 +669,11 @@ bne  +
 b    .cc_en_articles
 +
 
+cmp  r0,#0x0A                // check for 0xEF08, which will print n
+bne +
+b    .cc_plural_verb
++
+
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
 bne  +
 b    .cc_it_articles
@@ -772,6 +777,33 @@ bl   custom_strlen                // count the length of our special string, sto
 
 .end_cc_enemy_name:
 b    .main_loop_next              // now jump back to the part of the main loop that increments and such
+
+//--------------------------------------------------------------------------------------------
+ 
+.cc_plural_verb:
+push {r1-r3}
+mov  r3,#0                   // r3 will be our total # of bytes changed
+ 
+ldr  r0,=#0x2014322          // load the # of enemies
+ldrb r0,[r0,#0]
+cmp  r0,#1
+beq  .cc_plural_verb_end     // don't print anything if there's only one enemy
+ 
+mov  r0,#3
+mov  r2,#0x28
+mul  r0,r2
+ldr  r2,=#0x8D0829C
+add  r0,r0,r2                // r0 now has the address of "nt "
+
+bl   custom_strlen           // count the length of our special string, store its length in r2
+add  r3,r3,r0
+ 
+.cc_plural_verb_end:
+mov  r0,r3                   // r0 now has the total # of bytes we added
+ 
+pop  {r1-r3}
+b    .main_loop_next         // now jump back to the part of the main loop that increments and such
+
 
 //--------------------------------------------------------------------------------------------
 
@@ -1730,6 +1762,11 @@ bne  +
 b    .ecc_en_articles
 +
 
+cmp  r0,#0x0A                // check for 0xEF08, which will print nt
+bne +
+b    .ecc_plural_verb
++
+
 cmp  r0,#0x10                // check for 0xEF10, which will print an initial uppercase article for items
 bne  +
 b    .ecc_it_articles
@@ -1844,6 +1881,34 @@ bl   custom_strcopy               // r0 gets the # of bytes copied afterwards
 
 .end_ecc_enemy_name:
 b    .customcc_inc                // go to the common custom CC incrementing, etc. code
+
+//--------------------------------------------------------------------------------------------
+ 
+.ecc_plural_verb:
+push {r1-r3}
+mov  r3,#0                   // r3 will be our total # of bytes changed
+ 
+ldr  r0,=#0x2014322          // load the # of enemies
+ldrb r0,[r0,#0]
+cmp  r0,#1
+beq  +                       // don't print anything if there's only one enemy
+ 
+mov  r0,#3
+mov  r2,#0x28
+mul  r0,r2
+ldr  r2,=#0x8D0829C
+add  r0,r0,r2                // r0 now has the address of "nt "
+
+bl   custom_strcopy          // r0 gets the # of bytes copied afterwards
+add  r1,r1,r0
+add  r3,r3,r0
+ 
++
+mov  r0,r3                   // r0 now has the total # of bytes we added
+ 
+pop  {r1-r3}
+b    .customcc_inc           // go to the common custom CC incrementing, etc. code
+ 
 
 //--------------------------------------------------------------------------------------------
 

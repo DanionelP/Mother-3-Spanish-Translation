@@ -1,9 +1,9 @@
-// This•text can be any length. It's used in•the Sound Player.
+// No importa la longitud del texto. Se usa en el Reproductor.
 
 0:(EMPTY)[END]
 0-E:(NADA)[END]
-1:No øavorites[END]
-1-E:No hay•favoritos[END]
+1:No Favorites[END]
+1-E:No hay•Ýavoritos[END]
 2:???[END]
 2-E:???[END]
 3:Now saving...[END]

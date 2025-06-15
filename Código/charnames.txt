@@ -1,4 +1,4 @@
-// Character names must be 19 letters or less, but the shorter the better
+// Los nombres de personajes deben tener 19 caracteres o menos (cuanto más corto, mejor)
 000:(EMPTY)
 000-E:(NADA)
 001:Flint
@@ -21,19 +21,19 @@
 009-E:Boney
 00A:Boney
 00A-E:Boney
-00B:Kumatoƒa
+00B:Kumatora
 00B-E:Kumatoƒa
-00C:Kumatoƒa
+00C:Kumatora
 00C-E:Kumatoƒa
-00D:Kumatoƒa
+00D:Kumatora
 00D-E:Kumatoƒa
 00E:Wess
 00E-E:Wess
 00F:Duster
-00F-E:DuŠteƒ
-010:DuŠter
+00ø-E:DuŠteƒ
+010:Duster
 010-E:DuŠteƒ
-011:øassad
+011:Fassad
 011-E:øalhaz
 012:Salsa
 012-E:Salsa
@@ -47,7 +47,7 @@
 016-E:Ollie
 017:Ollie
 017-E:Ollie
-018:SebaŠtian
+018:Sebastian
 018-E:SebaŠtián
 019:Mapson
 019-E:Mapson
@@ -57,12 +57,12 @@
 01B-E:Jackie
 01C:Betsy
 01C-E:Betsy
-01D:ôessie
+01D:Tessie
 01D-E:ôessie
 01E:Bateau
 01E-E:Bateau
 01F:Thomas
-01F-E:Thomas
+01ø-E:Thomas
 020:Thomas
 020-E:Thomas
 021:Thomas
@@ -94,7 +94,7 @@
 02E:Abbey
 02E-E:Abbey
 02F:Matt
-02F-E:Matt
+02ø-E:Matt
 030:Matt
 030-E:Matt
 031:Butch
@@ -121,12 +121,12 @@
 03B-E:Dona
 03C:Lucas
 03C-E:Lucas
-03D:ùaul
+03D:Paul
 03D-E:ùaul
-03E:ùaul
+03E:Paul
 03E-E:ùaul
 03F:Linda
-03F-E:Linda
+03ø-E:Linda
 040:Nana
 040-E:Nana
 041:Nana
@@ -158,7 +158,7 @@
 04E:Lou
 04E-E:Lou
 04F:Lou
-04F-E:Lou
+04ø-E:Lou
 050:Scamp
 050-E:Golfo
 051:Ed
@@ -171,9 +171,9 @@
 054-E:Alle
 055:Lighter
 055-E:Lighter
-056:øuel
+056:Fuel
 056-E:øuel
-057:øuel
+057:Fuel
 057-E:øuel
 058:Alec
 058-E:Alec
@@ -185,17 +185,17 @@
 05B-E:Puercareto
 05C:Clayman
 05C-E:Arcilloso
-05D:Mr™ Saturn
+05D:Mr. Saturn
 05D-E:Mr™ Saturn
-05E:ùarrot
+05E:Parrot
 05E-E:Loro
 05F:Skinhead
-05F-E:Calvorota
+05ø-E:Calvorota
 060:Neckbeard
 060-E:Barbudo
 061:Guy
 061-E:Tipo
-062:Dr™ Andonuts
+062:Dr. Andonuts
 062-E:Dr™ Andonuts
 063:Attendant
 063-E:Revisor
@@ -205,7 +205,7 @@
 065-E:Pez
 066:Fish
 066-E:Pez
-067:Hermit Cƒab
+067:Hermit Crab
 067-E:Cangrejo ermitaño
 068:Lady
 068-E:Señoƒa
@@ -214,7 +214,7 @@
 06A:Sheep
 06A-E:Oveja
 06B:Cow
-06B-E:Vaca
+06B-E:þaca
 06C:Pig
 06C-E:Cerdo
 06D:Chicken
@@ -222,15 +222,15 @@
 06E:Dove
 06E-E:ùaloma
 06F:OJ
-06F-E:OJ
+06ø-E:OJ
 070:Shimmy Zmizz
 070-E:Shimmy Zmizz
 071:Baccio
 071-E:Baccio
 072:Magic
 072-E:Magic
-073:Dƒago Pup
-073-E:Cría de dƒago
+073:Drago Pup
+073-E:Cría de Dƒago
 074:Ionia
 074-E:Ionia
 075:Doria
@@ -246,18 +246,18 @@
 07A:Locria
 07A-E:Locria
 07B:Pork Bean
-07B-E:Vaina porcina
-07C:Pork ôank
+07B-E:þaina porcina
+07C:Pork Tank
 07C-E:ôanque porcino
 07D:Girl
 07D-E:Chica
 07E:Researcher
 07E-E:InveŠtigador
 07F:Gift Box
-07F-E:Regalo
+07ø-E:Regalo
 080:Mole Cricket
 080-E:Grillo•topo
-081:ørog
+081:Frog
 081-E:Rana
 082:Lighter
 082-E:Lighter
@@ -267,7 +267,7 @@
 084-E:Porky
 085:Man
 085-E:Hombre
-086:ørog
+086:Frog
 086-E:Rana
 087:Bonfire
 087-E:Hogueƒa
@@ -278,28 +278,28 @@
 08A:Guy
 08A-E:Tipo
 08B:Cow
-08B-E:Vaca
+08B-E:þaca
 08C:Clayman
 08C-E:Arcilloso
 08D:Lucas
 08D-E:Lucas
 08E:Leo-Leo
 08E-E:Leo-Leo
-08F:DuŠter
-08F-E:DuŠteƒ
+08F:Duster
+08ø-E:DuŠteƒ
 090:Masked Man
 090-E:Enmascaƒado
 091:Pigmask
 091-E:Puercareto
-092:Dƒago Pup
-092-E:Cría de dƒago
+092:Drago Pup
+092-E:Cría de Dƒago
 093:Mole Cricket
 093-E:Grillo•topo
 094:Elder Cricket
 094-E:Veneƒable grillo
-095:DuŠter
+095:Duster
 095-E:DuŠteƒ
-096:Kumatoƒa
+096:Kumatora
 096-E:Kumatoƒa
 097:Arrow Lizard
 097-E:Flechagarto
@@ -318,16 +318,16 @@
 09E:Ionia
 09E-E:Ionia
 09F:Flint
-09F-E:Flint
-0A0:øuel
+09ø-E:Flint
+0A0:Fuel
 0A0-E:øuel
 0A1:Leder
 0A1-E:Leder
 0A2:Mole Cricket
 0A2-E:Grillo•topo
-0A3:Stƒay Dog
+0A3:Stray Dog
 0A3-E:Perro callejero
-0A4:Stƒay Dog
+0A4:Stray Dog
 0A4-E:Perro callejero
 0A5:Item Guy
 0A5-E:Chatarrero
@@ -350,7 +350,7 @@
 0AE:Knock!
 0AE-E:¡ôoc!
 0AF:Bow
-0AF-E:Arco
+0Aø-E:Arco
 0B0:Bow
 0B0-E:Arco
 0B1:Guy
@@ -359,31 +359,31 @@
 0B2-E:Señoƒa
 0B3:Flint
 0B3-E:Flint
-0B4:øuel
+0B4:Fuel
 0B4-E:øuel
 0B5:Flint
 0B5-E:Flint
-0B6:øuel
+0B6:Fuel
 0B6-E:øuel
 0B7:Old Guy
 0B7-E:Anciano
 0B8:Policeman
 0B8-E:Policía
-0B9:ôomas Jefferson
+0B9:Tomas Jefferson
 0B9-E:ôomas Jefferson
 0BA:Lucky
 0BA-E:Lucky
 0BB:Gorgeous
 0BB-E:Gorgeous
 0BC:?????
-0BC-E:?????
+0BC-E:¿¿¿???
 0BD:Nut
 0BD-E:Nuez
 0BE:Snowman
 0BE-E:Muñeco de nieve
 0BF:Violet
-0BF-E:Violet
-0C0:Kumatoƒa
+0Bø-E:Violet
+0C0:Kumatora
 0C0-E:Kumatoƒa
 0C1:Magic
 0C1-E:Magic
@@ -393,19 +393,19 @@
 0C3-E:S‰jeto 195
 0C4:Hmm...
 0C4-E:Mmm...
-0C5:ùaper Man
+0C5:Paper Man
 0C5-E:Hombre de papel
 0C6:Pork Saucer
 0C6-E:Platillo porcino
 0C7:Old Guy
-0C7-E:Anciano
+0C7-E:Obrero
 0C8:Interpreter
 0C8-E:Intérprete
 0C9:Pig Book
 0C9-E:Libro porcino
 0CA:Fixed Robot
 0CA-E:Robot repaƒado
-0CB:ørog
+0CB:Frog
 0CB-E:Rana
 0CC:Bonfire
 0CC-E:Hogueƒa
@@ -414,40 +414,40 @@
 0CE:Bucket Bros
 0CE-E:Hermanos Cubeta
 0CF:(EMPTY)
-0CF-E:(NADA)
+0Cø-E:(NADA)
 0D0:The Squeekz
-0D0-E:"El Rata"
+0D0-E:<El Rata>
 0D1:Pendant
 0D1-E:Colgante
 0D2:Secrebot
-0D2-E:Azafatabot
+0D2-E:AzaÝatabot
 0D3:Binoculars
 0D3-E:Binoculares
 0D4:Robot
 0D4-E:Robot
-0D5:ùancho
+0D5:Pancho
 0D5-E:ùancho
 0D6:Pincho
 0D6-E:Pincho
 0D7:Tired Clayman
 0D7-E:Arcilloso cansado
-0D8:ørog
+0D8:Frog
 0D8-E:Rana
-0D9:ørog
+0D9:Frog
 0D9-E:Rana
 0DA:Black Sheep
 0DA-E:Oveja negƒa
 0DB:Jukebox
 0DB-E:Sinfonola
-0DC:Scƒapped Robot
+0DC:Scrapped Robot
 0DC-E:Robot•averiado
 0DD:Ionia
 0DD-E:Ionia
-0DE:ôalking Bones
+0DE:Talking Bones
 0DE-E:Huesos parlantes
-0DF:Mr™ Saturn
-0DF-E:Mr™ Saturn
-0E0:ôeddy Bear
+0DF:Mr. Saturn
+0Dø-E:Mr™ Saturn
+0E0:Teddy Bear
 0E0-E:Osito de peluche
 0E1:Pigmask
 0E1-E:Puercareto
@@ -478,8 +478,8 @@
 0EE:Bird
 0EE-E:ùájaro
 0EF:Man
-0EF-E:Hombre
-0F0:ørog
+0Eø-E:Hombre
+0F0:Frog
 0F0-E:Rana
 0F1:Lucas
 0F1-E:Lucas
@@ -491,7 +491,7 @@
 0F4-E:Flint
 0F5:Guy
 0F5-E:Tipo
-0F6:DuŠter
+0F6:Duster
 0F6-E:DuŠteƒ
 0F7:Person 249
 0F7-E:S‰jeto 249
@@ -499,18 +499,18 @@
 0F8-E:Limusina
 0F9:Slot Machine
 0F9-E:ôƒagaperƒas
-0FA:Kumatoƒa
+0FA:Kumatora
 0FA-E:Kumatoƒa
 0FB:Wess
 0FB-E:Wess
 0FC:Salsa
 0FC-E:Salsa
-0FD:øassad
+0FD:Fassad
 0FD-E:øalhaz
 0FE:Person 254
 0FE-E:Sujeto 254
 0FF:Thomas
-0FF-E:Thomas
+0Fø-E:Thomas
 100:Boat
 100-E:Bote
 101:Man
@@ -533,17 +533,17 @@
 109-E:Mujer
 10A:Crowd
 10A-E:Público
-10B:HoŠt
+10B:Host
 10B-E:Anfitrión
 10C:Chauffeur
 10C-E:Chófer
-10D:Word on•the Wind
+10D:Word on the Wind
 10D-E:Viento cotilla
 10E:Man
 10E-E:Hombre
-10F:ørog
-10F-E:Rana
-110:ørog
+10F:Frog
+10ø-E:Rana
+110:Frog
 110-E:Rana
 111:O2 Machine
 111-E:Máquina O2
@@ -565,7 +565,7 @@
 119-E:Anciana
 11A:(EMPTY)
 11A-E:(NADA)
-11B:Kumatoƒa
+11B:Kumatora
 11B-E:Kumatoƒa
 11C:Hippo Researcher
 11C-E:HipoinveŠtigador
@@ -574,7 +574,7 @@
 11E:Flint
 11E-E:Flint
 11F:Leder
-11F-E:Leder
+11ø-E:Leder
 120:Leder
 120-E:Leder
 121:Man
@@ -597,5 +597,5 @@
 129-E:Hombre
 12A:Robot
 12A-E:Robot
-12B:Mr™ Saturn
+12B:Mr. Saturn
 12B-E:Mr™ Saturn

@@ -1,4 +1,4 @@
-// All default/don't care names muŠt be 8 letters or•less
+// Todos los nombres por defecto/nombres de no me importa deben tener 8 caracteres o menos
 
 00:Claus
 00-E:Claus
@@ -31,7 +31,7 @@
 0E:Flint
 0E-E:Flint
 0F:Flint
-0F-E:Flint
+0ø-E:Flint
 10:Flint
 10-E:Flint
 11:Flint
@@ -63,40 +63,40 @@
 1E:Boney
 1E-E:Boney
 1F:Boney
-1F-E:ôoby
+1ø-E:ôoby
 20:Boney
 20-E:Boney
 21:Boney
 21-E:ôoby
 22:Boney
 22-E:
-23:DuŠter
+23:Duster
 23-E:DuŠteƒ
-24:DuŠter
+24:Duster
 24-E:DuŠteƒ
-25:DuŠter
+25:Duster
 25-E:DuŠteƒ
-26:DuŠter
+26:Duster
 26-E:DuŠteƒ
-27:DuŠter
+27:Duster
 27-E:DuŠteƒ
-28:DuŠter
+28:Duster
 28-E:DuŠteƒ
-29:DuŠter
+29:Duster
 29-E:DuŠteƒ
-2A:Kumatoƒa
+2A:Kumatora
 2A-E:Kumatoƒa
-2B:Kumatoƒa
+2B:Kumatora
 2B-E:Kumatoƒa
-2C:Kumatoƒa
+2C:Kumatora
 2C-E:Kumatoƒa
-2D:Kumatoƒa
+2D:Kumatora
 2D-E:Kumatoƒa
-2E:Kumatoƒa
+2E:Kumatora
 2E-E:Kumatoƒa
-2F:Kumatoƒa
-2F-E:Kumatoƒa
-30:Kumatoƒa
+2F:Kumatora
+2ø-E:Kumatoƒa
+30:Kumatora
 30-E:Kumatoƒa
 31:Salsa
 31-E:Salsa
@@ -114,29 +114,29 @@
 37-E:Salsa
 38:Omelets
 38-E:ôortilla
-39:ùaŠta
+39:Pasta
 39-E:ùaŠta
-3A:Gƒatin
+3A:Gratin
 3A-E:Lasaña
 3B:Donuts
 3B-E:Donuts
 3C:Stew
-3C-E:EŠtofado
+3C-E:EŠtoİado
 3D:Gelatin
 3D-E:Gelatina
 3E:Rice
 3E-E:Arroz
 3F:Love
-3F-E:Amor
+3ø-E:Amor
 40:Home Run
 40-E:øútbol
 41:Mach
 41-E:AmiŠtad
-42:ôop Spec
+42:Top Spec
 42-E:ôƒabajo
 43:Mt. Fuji
-43-E:Mt. Fuji
-44:Cameƒa
+43-E:Mt. øuji
+44:Camera
 44-E:Cine
 45:Watering
 45-E:Flores

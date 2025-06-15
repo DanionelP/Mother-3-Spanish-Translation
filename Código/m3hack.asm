@@ -971,7 +971,7 @@ org $80C20EE; db $BE         // Status
 org $80C20F0; db $B7         // Sleep
 
 // centers all the Sleep Mode confirm text better
-org $8038564; db $19
+org $8038564; db $29
 org $8038578; db $55
 org $803858C; db $91
 
@@ -1716,11 +1716,9 @@ org $8C9505A; db $A2
 org $9364430; incbin logic_multi_debug.bin
 org $9360076; db $EC //Change pointer to another script that does the exact same thing.
 
-//Update K9000's battle and overworld sprites
-org $97977B0; incbin ./gráficos/gfx_k9000_sprite.bin
-org $9CDF638; incbin ./gráficos/gfx_k9000_battle_[c].bin
+//Update K9000's battle sprites
+org $9CDF638; incbin ./gráficos/gfx_k4n1n0_battle_[c].bin
 org $9C90EE0; dd $0004ECD8 //Repoint the sprite graphics
-org $9C90EE4; dd $0000084C //Update the length of the graphics
 
 //Update Nuclear Reactor Robot's battle and overworld sprites
 org $97690D0; incbin ./gráficos/gfx_nuclear_sprite.bin
@@ -1728,6 +1726,10 @@ org $9CDFE84; incbin ./gráficos/gfx_nuclear_battle_[c].bin
 org $9C90DE0; dd $0004F524 //Repoint the sprite graphics
 org $9C90DE4; dd $000004B0 //Update the length of the graphics
 
+//Update Lovewalker's battle sprites
+org $9CE0340; incbin ./gráficos/gfx_rompecorazones_battle_[c].bin
+org $9C90DC8; dd $0004F9E0
+org $9C90DCC; dd $000004CC
 //Fix trades of the ghost
 org $93285C0; incbin data_ghost_fix.bin
 //org $80D3594; dw $0268
@@ -2093,6 +2095,9 @@ org $8DEE9F8; incbin ./gráficos/gfx_titiboo_sign_[c].bin
 org $8E24C70; incbin ./gráficos/gfx_club_titiboo_sign_[c].bin
 org $8D4FFC8; incbin ./gráficos/gfx_titiboo_rug_[c].bin
 org $9C70DA4; incbin ./gráficos/gfx_titiboo_credits.bin
+org $8D44A84; incbin ./gráficos/gfx_dcmc_posters_[c].bin
+org $9FDD500; incbin ./gráficos/gfx_highway_sign_[c].bin
+org $8D3D924; dd $12A2020
 
 print "End of Current Hacks: ",pc
 print "Max:                  0x813C743"

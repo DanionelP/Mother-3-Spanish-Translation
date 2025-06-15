@@ -1,0 +1,105 @@
+// La mayoría de este texto se usa en menús debug que no se han descubierto,
+// pero deberías traducirlos de todas formas.
+// Los nombres de técnicas al final del archivo SÍ se usan en batalla.
+// Todo en este archivo debe tener 19 caracteres o menos.
+
+00:Pl. Movement Data
+00-E:Movimiento jugador
+01:Attack
+01-E:Atacar
+02:Defend
+02-E:Defender
+03:Run Away
+03-E:Huir
+04:Chapter 0 Attack
+04-E:Ataque capítulo 0
+05:Strange Attack
+05-E:Ataque extraño
+06:Duster:Behind
+06-E:Duster:Atrás
+07:Duster:Back Up
+07-E:Duster:Levantarse
+08:Duster:Pre.Strike
+08-E:Duster:Golpe inicial
+09:(EMPTY)
+09-E:(NADA)
+0A:DCMC Intrusion
+0A-E:Instrusión DCMC
+0B:Baccio's Line
+0B-E:Línea de Baccio
+0C:Baccio's Attack
+0C-E:Ataque de Baccio
+0D:Shimmy's Line
+0D-E:Línea de Shimmy
+0E:Shimmy's Attack
+0E-E:Ataque de Shimmy
+0F:Magic's Line
+0F-E:Línea de Magic
+10:Magic's Attack
+10-E:Ataque de Magic
+11:OJ's Line
+11-E:Línea de OJ
+12:OJ's Attack
+12-E:Ataque de OJ
+13:Andonuts' Line
+13-E:Línea de Andonuts
+14:Andonuts' attack
+14-E:Ataque de Andonuts
+15:Wess' Line
+15-E:Línea de Wess
+16:Wess' Attack
+16-E:Ataque de Wess
+17:Flint's Line
+17-E:Línea de Flint
+18:Flint's Attack
+18-E:Ataque de Flint
+19:Lucas Cant Attack
+19-E:Lucas no ataca
+1A:(EMPTY)
+1A-E:(NADA)
+1B:Last Bash
+1B-E:Último ataque
+1C:Last PSI
+1C-E:Último PSI
+1D:Last Goods
+1D-E:Último objeto
+1E:Last Guard
+1E-E:Último defender
+1F:Flint: Special
+1F-E:Flint: Especial
+20:Swing
+20-E:Sacudida
+21:Power Smash
+21-E:Impacto brutal
+22:Strengthen Up
+22-E:Fortalecer
+23:Toughen Up
+23-E:Endurecer
+24:Duster: Thief
+24-E:Duster: Ladrón
+25:Wall Staple
+25-E:Clavos de pared
+26:Siren Beetle
+26-E:Ciervo zumbante
+27:Hypno-Pendulum
+27-E:Hipno-péndulo
+28:Smoke Bomb
+28-E:Bomba de humo
+29:Scary Mask
+29-E:Máscara susto
+2A:Tickle Stick
+2A-E:Palo cosquillero
+2B:Boney: Sniff
+2B-E:Boney: Olfatear
+2C:Sniff
+2C-E:Olfatear
+2D:Salsa:Tricks
+2D-E:Salsa:Trucos
+2E:Apologize
+2E-E:Disculparse
+2F:Make Laugh
+2F-E:Entretener
+30:Dance
+30-E:Bailar
+31:Monkey Mimic
+31-E:Mímica de mono

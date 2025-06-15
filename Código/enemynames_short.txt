@@ -1,6 +1,6 @@
 (nada)
 Caribú reconŠt.
-Don¬ùasión
+Don ùasión
 Osoherpiente
 Arcilloso
 Mecha-Dƒago
@@ -10,10 +10,10 @@ Grillo•topo
 Sonrisa macabƒa
 Sonrisa brillante
 Porky
-C™E™R™D™O
+C.E.R.D.O
 Enmascaƒado
-Puerc.•feroz
-Puerc.•feroz
+Puerc. feroz
+Puerc. feroz
 Bajo celoso
 Porky
 Babosa pegajosa
@@ -28,20 +28,20 @@ PORKY 03
 PORKY 08
 øalhaz milagroso
 Coman. Puercareto
-Gƒan¬antillón
+Gƒan antillón
 Electroplasma
 Rinocohete v2
 SuŠtobot
-"El Rata"
-Pirodóptero
+<El Rata>
+Pirodíptero
 Mecha-león
 Corte de carreteƒa
 ôrotaseta
 Petardo gƒaznante
 Gƒan pescánido
-Sr™¬Murchiflado
+Sr™ Murchiflado
 Ratón gorrón
-Flamidóptero
+Flamidíptero
 ôuberculoide
 Ratón volador
 PORKY 01
@@ -55,7 +55,7 @@ Metalimono miŠt.
 Lagarto escarpado
 Gusano patatero
 Ÿetiesquí
-Can¬gelado
+Can gelado
 Babosa viscosa
 Geocita
 Confuseta
@@ -78,21 +78,21 @@ LangoŠta cobarde
 Cochinilla ENORME
 Esqueleto alegre
 Hermanote
-Hombre¬barril
+Hombre barril
 Limo de•fresa
 ¡Aƒácnido!
-Cucar. violenta
+Cucar™ violenta
 ôrío barreƒa
 Armad. espectƒal
 Espada espectƒal
 Escudo espectƒal
 Cab. espectƒal
-Capa¬de Osohe
+Capa de Osohe
 øantasma mecedor
 Pseudopuerta
 Sonrisa macabƒa
-Escar. boñiguero
-Gƒan¬antillón
+Escar™ boñiguero
+Gƒan antillón
 Bocaseca
 Lagarto arenoso
 Cactulobo
@@ -101,32 +101,32 @@ Pringue pringoso
 Hermanito
 Zombiñón
 øantasma fétido
-Crítico•fantasmal
+Crítico•Ýantasmal
 Rocinántula
 Porquídea
 ùalo gƒaznante
 Mohosus Putridus
-Aví·boƒa
+Avíboƒa
 Engendro
 Pescánido
-Vacaconda
+þacaconda
 PorkŠtein
 Mantis religiosa
 Dƒagolibélula
-Cucar. mugrienta
+Cucar™ mugrienta
 Champichucho
 Mecha-tortuga
 Equipo•fƒaternal
 Murciangután
-Elefantruz
+EleÝantruz
 Titani aéreo
 Monorsa
 Canguburón mat.
-Sta. Mal‡avisco
-Casi-Mecha-león
+Sta·. Mal‡avisco
+Casi Mecha-león
 Rinocohete
 Ruedapuerco hiŠt.
-Cucar. metálica
+Cucar™ metálica
 Helirƒatón
 ¡Cortocircuito!
 Robot obsoleto
@@ -150,7 +150,7 @@ Robot patrulla
 Puercareto
 Señoƒa zombi
 ôƒavieseta
-Lord¬Murchiflado
+Lord Murchiflado
 ¡¡¡¡Aƒácnido!!!!
 Ratón ladrón
 Guitarƒa llorona
@@ -169,7 +169,7 @@ K4N1N0
 Alcalino
 PORKY 06
 Coman. Puercareto
-Cor. Puercareto
+Cor™ Puercareto
 Cap. Puercareto
 Puercareto marino
 MaeŠtro•torbellino
@@ -177,7 +177,7 @@ Gamba gamberƒa
 Pez redooondo
 Buitƒaco celeŠte
 Seguribot
-Viento¬incordiante
+Viento incordiante
 PORKY 09
 PORKY 10
 Titanian
@@ -192,7 +192,7 @@ Enmascaƒado
 (NADA)
 Púa
 Antillón
-Puerc.•feroz
+Puerc. feroz
 CangrÊjo
 Siluro eléc.
 Shimmy Zmizz
@@ -201,22 +201,22 @@ DuŠteƒ
 ôeclado
 OJ
 Robot
-Escar. boñiguero
+Escar™ boñiguero
 Hombre carpa
 ConÊjo ártico
 Arcilloso
-Vapor
+þapor
 Serpicuerda
 Serpicuerda
 Mesa Aeolia
 ùaja
-Vapor 2
+þapor 2
 Mini-ascensor
 Dƒago
-Puerc.•feroz
+Puerc. feroz
 Green•ôƒain
 Drenadino
-Tres Amigos
+ôres Amigos
 Flor
 Cuerda
 Flame 3
@@ -232,7 +232,7 @@ Humo
 Statue Head
 Carrusel
 N. Dresser
-Flamidópteros
+Flamidípteros
 Ropa de Hinawa
 Siluro
 Escoba
@@ -244,16 +244,16 @@ Cartel
 (empty)
 Retƒato
 øantasmigo
-Papeleƒa
+ùapeleƒa
 Bola de acero
-Huevo de la luz
+Huevo de la Luz
 CaŠtaña
-Fantasma mecedor
+øantasma mecedor
 Vela
 Ratón
 Máquina energética
 Sable de luz
-Vaso de vino
+þaso de vino
 Serpicuerda
 Chinche
 Camión basuƒa
@@ -261,25 +261,25 @@ Humo
 Aeolia
 Doria
 Lupa
-Globo de texto
+Globo de•texto
 Cartel
 NO Stone
 Kumatoƒa
 Stone øƒagment
 Ese coche
 Dƒago negro
-Grillo topo
+Grillo•topo
 Rayo
 Cerdinave
-(vacío)
+(‡acío)
 Lidia
 Mixolidia
 Hinawa
 Dƒago congelado
 Porky
-Trueno
+ôrueno
 Ratoncito
-Dr. Andonuts
+Dr™ Andonuts
 CaŠtillo Osohe
 Cerdinave
 Volcán
@@ -299,7 +299,7 @@ Sapling
 (empty)
 (empty)
 ôumba
-Frigia
+ørigia
 Cubo
 Iron Octopus
 Caribú
@@ -327,4 +327,4 @@ WoodM3Title
 Overworld
 Underworld
 MenRoomDoor
-Aeolia&Sofa
+Aeolia&SoÝa

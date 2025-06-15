@@ -1,6 +1,6 @@
-// The•text here can be any length.
-// The 'Lucky' and 'Violet' lines MUST be 8 letters or•less, though.
-// MoŠt of this•Štuff is used by an undiscovered debug menu.
+// No importa la longitud del texto.
+// Pero las líneas de  'Lucky' y 'Violet' DEBEN tener 8 caracteres o menos.
+// La mayoría de esto se usa en un menú de debug que no se ha descubierto.
 
 01:Collision Detect[END]
 01-E:Detec. colisión[END]
@@ -8,7 +8,7 @@
 02-E:Bat.[END]
 03:OBJ Data ID[END]
 03-E:ID oËj.[END]
-04:ObŠtacle E‡asion[END]
+04:Obstacle Evasion[END]
 04-E:E‡as. obs.[END]
 05:Process Load[END]
 05-E:Car. proc.[END]
@@ -31,7 +31,7 @@
 0E:Coupon[END]
 0E-E:Cupn.[END]
 0F:Leder Counter[END]
-0F-E:Conteo Leder[END]
+0ø-E:Conteo Leder[END]
 10:Respawn Location[END]
 10-E:Lugar•reap.[END]
 11:Current BGM[END]
@@ -48,7 +48,7 @@
 16-E:MoŠtr.[END]
 17:No Display[END]
 17-E:No moŠtr.[END]
-18:Ad‡ance  [END]
+18:Advance  [END]
 18-E:A‡an.  [END]
 19:GB Player[END]
 19-E:GB Player[END]
@@ -63,12 +63,12 @@
 1E:[END]
 1E-E:[END]
 1F:Put the game in Sleep Mode?[END]
-1F-E:¿Quieres poner•el•juego en modo suspensión?[END]
+1ø-E:¿Poner•el•juego en modo suspensión?[END]
 20:[END]
 20-E:[END]
 21:[END]
 21-E:[END]
-22:Ÿes[END]
+22:Yes[END]
 22-E:Sí[END]
 23:No[END]
 23-E:No[END]

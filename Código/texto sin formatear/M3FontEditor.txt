@@ -1,0 +1,6 @@
+font_mainfont.bin
+font_mainwidths.bin
+font_smallfont.bin
+font_smallwidths.bin
+true
+true

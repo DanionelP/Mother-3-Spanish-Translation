@@ -1,6 +1,6 @@
-// All status names must be 14 letters or less
-// Most of the things in here are for undiscovered debug menus;
-// don't worry if your translations look weird
+// Todos los nombres de estados deben tener 14 caracteres o menos
+// La mayoría de esto se usa en menús debug sin descubrir;
+// no te preocupes si tu traducción se ve rara
 
 00:(EMPTY)
 00-E:(NADA)
@@ -10,11 +10,11 @@
 02-E:ùaƒálisis
 03:Sleep
 03-E:Sueño
-04:Stƒange
+04:Strange
 04-E:Rareza
 05:Crying
 05-E:Lágrimas
-06:øorgetful
+06:Forgetful
 06-E:Olvido
 07:Nauseous
 07-E:Náuseas
@@ -22,7 +22,7 @@
 08-E:Pulgas
 09:On Fire
 09-E:En llamas
-0A:Stopped, ørozen
+0A:Stopped, Frozen
 0A-E:Congelación
 0B:Smelly
 0B-E:Hedor
@@ -33,18 +33,18 @@
 0E:Apology Stopped
 0E-E:Fin disculpas
 0F:Laugh Stopped
-0F-E:Fin de la risa
+0ø-E:Fin de la risa
 10:Defense
 10-E:Defensa
 11:No EXP
 11-E:No EXP
 12:Off Down (weak)
 12-E:Baj. øue (déb)
-13:Off Down(Štrng)
+13:Off Down(strng)
 13-E:Baj. øue (frt)
 14:Def Down (weak)
 14-E:Baj. Def (déb)
-15:Def Down(Štrng)
+15:Def Down(strng)
 15-E:Baj. Def (frt)
 16:Shield
 16-E:Escudo
@@ -58,14 +58,14 @@
 1A-E:ReflÊjo PSI
 1B:Off Up (weak)
 1B-E:Sub. øue (déb)
-1C:Off Up (Štrong)
+1C:Off Up (strong)
 1C-E:Sub. øue (frt)
 1D:Def Up (weak)
 1D-E:Sub. Def (déb)
-1E:Def Up (Štrong)
+1E:Def Up (strong)
 1E-E:Sub. Def (frt)
-1F:Escape øailure
-1F-E:øallo al huir
+1F:Escape Failure
+1ø-E:øallo al huir
 20:Dance
 20-E:Bailar
 21:Off Down (mid)
@@ -74,30 +74,30 @@
 22-E:Baj. Def (med)
 23:Time Bomb
 23-E:Bomba temp.
-24:ùaƒameters Up
+24:Parameters Up
 24-E:Subir•paƒám.
-25:ùaƒameters Down
+25:Parameters Down
 25-E:Bajar•paƒám.
 26:Refresh
 26-E:Regeneƒar
-27:øell
+27:Fell
 27-E:Caer
 28:MonkeyDanceOff
-28-E:MonkeyDanceOff
+28-E:MonoBaileøue
 29:MonkeyDanceDef
-29-E:MonkeyDanceDef
+29-E:MonoBaileDef
 2A:MonkeyDanceSP
-2A-E:MonkeyDanceSP
+2A-E:MonoBaileVel
 2B:MonkeyDanceIQ
-2B-E:MonkeyDanceCI
+2B-E:MonoBaileCI
 2C:MonkeyDanceOff
-2C-E:MonkeyDanceOff
+2C-E:MonoBaileøue
 2D:MonkeyDanceDef
-2D-E:MonkeyDanceDef
+2D-E:MonoBaileDef
 2E:MonkeyDanceSP
-2E-E:MonkeyDanceSP
+2E-E:MonoBaileVel
 2F:MonkeyDanceIQ
-2F-E:MonkeyDanceIQ
+2ø-E:MonoBaileCI
 30:Endure
 30-E:Aguantar
 31:Off Up (mid)

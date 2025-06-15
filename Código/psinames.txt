@@ -1,18 +1,18 @@
-// PSI names muŠt be 19 letters or•less, but the shorter•the better
+// Los nombres de PSI deben tener 19 caracteres o menos, pero cuanto más corto mejor
 00:(EMPTY)
 00-E:(NADA)
-01:PK Cool•Thing
+01:PK Cool Thing
 01-E:PK Cosa chula
-02:PK Cool•Thing
+02:PK Cool Thing
 02-E:PK Cosa chula
-03:PK Cool•Thing
+03:PK Cool Thing
 03-E:PK Cosa chula
-04:PK Cool•Thing
+04:PK Cool Thing
 04-E:PK Cosa chula
 05:PK Flash
 05-E:PK Flash
-06:PK StarŠtorm
-06-E:PK ôormenta eŠtelar
+06:PK Starstorm
+06-E:PK•ôormenta eŠtelar
 07:PK Fire [ALPHA]
 07-E:PK øuego [ALPHA]
 08:PK Fire [BETA]
@@ -21,16 +21,16 @@
 09-E:PK øuego [GAMMA]
 0A:PK Fire [OMEGA]
 0A-E:PK øuego [OMEGA]
-0B:PK øreeze [ALPHA]
+0B:PK Freeze [ALPHA]
 0B-E:PK Hielo [ALPHA]
-0C:PK øreeze [BETA]
+0C:PK Freeze [BETA]
 0C-E:PK Hielo [BETA]
-0D:PK øreeze [GAMMA]
+0D:PK Freeze [GAMMA]
 0D-E:PK Hielo [GAMMA]
-0E:PK øreeze [OMEGA]
+0E:PK Freeze [OMEGA]
 0E-E:PK Hielo [OMEGA]
 0F:PK Thunder [ALPHA]
-0F-E:PK ôrueno [ALPHA]
+0ø-E:PK ôrueno [ALPHA]
 10:PK Thunder [BETA]
 10-E:PK ôrueno [BETA]
 11:PK Thunder [GAMMA]
@@ -62,7 +62,7 @@
 1E:Healing [OMEGA]
 1E-E:Sanar•[OMEGA]
 1F:PSI Magnet [ALPHA]
-1F-E:Imán PSI [ALPHA]
+1ø-E:Imán PSI [ALPHA]
 20:PSI Magnet [OMEGA]
 20-E:Imán PSI [OMEGA]
 21:(EMPTY)
@@ -94,7 +94,7 @@
 2E:Offense Up [ALPHA]
 2E-E:øuerza plus [ALPHA]
 2F:Offense Up [OMEGA]
-2F-E:øuerza plus [OMEGA]
+2ø-E:øuerza plus [OMEGA]
 30:Defense Up [ALPHA]
 30-E:Defensa plus [ALPHA]
 31:Defense Up [OMEGA]
@@ -105,28 +105,28 @@
 33-E:Hipnosis [ALPHA]
 34:Hypnosis [OMEGA]
 34-E:Hipnosis [OMEGA]
-35:ùaƒalysis [ALPHA]
+35:Paralysis [ALPHA]
 35-E:ùaƒálisis [ALPHA]
-36:ùaƒalysis [OMEGA]
+36:Paralysis [OMEGA]
 36-E:ùaƒálisis [OMEGA]
-37:Bƒainshock [ALPHA]
+37:Brainshock [ALPHA]
 37-E:Shock•mental [ALPHA]
-38:Bƒainshock [OMEGA]
+38:Brainshock [OMEGA]
 38-E:Shock•mental [OMEGA]
 39:(EMPTY)
 39-E:(NADA)
 3A:Offense Down [ALPHA]
-3A-E:Mermar•fuerza [ALPHA]
+3A-E:øuerza minus [ALPHA]
 3B:Offense Down [OMEGA]
-3B-E:Mermar•fuerza [OMEGA]
+3B-E:øuerza minus [OMEGA]
 3C:Defense Down [ALPHA]
-3C-E:Mermar•defensa [ALPHA]
+3C-E:Defensa minus [ALPHA]
 3D:Defense Down [OMEGA]
-3D-E:Mermar•defensa [OMEGA]
+3D-E:Defensa minus [OMEGA]
 3E:(EMPTY)
 3E-E:(NADA)
 3F:(EMPTY)
-3F-E:(NADA)
+3ø-E:(NADA)
 40:(EMPTY)
 40-E:(EMPTY)
 41:(EMPTY)
@@ -158,7 +158,7 @@
 4E:(EMPTY)
 4E-E:(NADA)
 4F:(EMPTY)
-4F-E:(NADA)
+4ø-E:(NADA)
 50:(EMPTY)
 50-E:(NADA)
 51:(EMPTY)
@@ -190,7 +190,7 @@
 5E:(EMPTY)
 5E-E:(NADA)
 5F:(EMPTY)
-5F-E:(NADA)
+5ø-E:(NADA)
 60:(EMPTY)
 60-E:(NADA)
 61:(EMPTY)
