@@ -40,4 +40,4 @@ Muchas gracias también a Shedinja Ultra, que me llegó a mandar un documento de
 
 ## Contacto
 Si encuentras algún fallo, ves algo que se puede mejorar o simplemente quieres hacer una sugerencia, puedes hacerla a través de la pestaña [Issues](https://github.com/DanionelP/Mother-3-Spanish-Translation/issues).
-Si necesitas ayuda para entender cualquier cosa del código de mi traducción (ya bien porque estás haciendo una traducción al español latino u a otro idioma), será mejor contactarme a través de Discord, lugar donde suelo ser más activo. Mi username es "**danionel**". ¡Estaré encantado de ayudarte! ^^
+Si necesitas ayuda para entender cualquier cosa del código de mi traducción (ya bien porque estás haciendo una traducción al español latino o a otro idioma), será mejor contactarme a través de Discord, lugar donde suelo ser más activo. Mi username es "**danionel**". ¡Estaré encantado de ayudarte! ^^
