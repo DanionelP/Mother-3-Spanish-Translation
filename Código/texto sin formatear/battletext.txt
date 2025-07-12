@@ -105,7 +105,7 @@
 002E-E: Débil al hielo[END]
 002F: Weak Thunder[END]
 002F-E: Débil al trueno[END]
-0030: Weak Explosión[END]
+0030: Weak explosion[END]
 0030-E: Débil a la explosión[END]
 0031: STATUS DEBUGGER[END]
 0031-E: DEBUG ESTADO[END]
@@ -464,7 +464,7 @@
 00E2: [END]
 00E2-E: [END]
 00E3: It didn't work on [25 EF][12 FF]![END]
-00E3-E: ¡Pero no ha funcionado en [25 EF][12 FF]·![END]
+00E3-E: ¡No ha funcionado en [25 EF][12 FF]·![END]
 // Se usa si un movimiento de estado se usa en una entidad resistente o si dicha entidad ya ha sido infligida con ese estado (incluso después de aplicar 3 buffs/debuffs)
 00E4: [END]
 00E4-E: [END]
@@ -635,7 +635,7 @@
 0137: [04 EF][12 FF] and company were eradicated![END]
 0137-E: ¡[04 EF][12 FF] y compañía han sido erradicados![END]
 0138: But it didn't work on [05 EF][12 FF]![END]
-0138-E: ¡Pero no ha funcionado en [05 EF][12 FF]·![END]
+0138-E: ¡No ha funcionado en [05 EF][12 FF]·![END]
 0139: It had no visible effect on [05 EF][12 FF]![END]
 0139-E: ¡No ha tenido ningún efecto visible en [05 EF][12 FF]·![END]
 013A: [12 FF] was healed completely![END]
@@ -691,7 +691,7 @@
 0153: [END]
 0153-E: [END]
 0154: But it didn't work on [05 EF][12 FF]![END]
-0154-E: ¡Pero no ha funcionado en [05 EF][12 FF]·![END]
+0154-E: ¡No ha funcionado en [05 EF][12 FF]·![END]
 0155: It had no visible effect on [05 EF][12 FF]![END]
 0155-E: ¡No ha tenido ningún efecto visible en [05 EF][12 FF]·![END]
 0156: [12 FF] felt much better![END]
@@ -877,7 +877,7 @@
 01B0: [04 EF][12 FF] answered, "Hedgehog!"[END]
 01B0-E: [04 EF][12 FF] ha respondido: <¡Puercoespín!>[END]
 01B1: [04 EF][12 FF] answered, "The Peasants' Revolt!"[END]
-01B1-E: [04 EF][12 FF] ha respondido: <¡La®Revolución francesa!>[END]
+01B1-E: [04 EF][12 FF] ha respondido: <¡La®Revolución francesa·!>[END]
 01B2: [END]
 01B2-E: [END]
 01B3: [END]
@@ -983,7 +983,7 @@
 01E3-E: ¡[11 FF] ha acumulado toda su fuerza·![END]
 // Usado por la habilidad de personaje: 34
 01E4: [11 FF] stiffened [26 EF]body![END]
-01E4-E: ¡[11 FF] ha tensado sus musculos![END]
+01E4-E: ¡[11 FF] ha tensado sus músculos![END]
 // Usado por la habilidad de personaje: 35
 01E5: BONEY MESSAGES[END]
 01E5-E: MENSAJES BONEY[END]
@@ -1054,7 +1054,7 @@
 0205: Smells weak against lightning![END]
 0205-E: ¡Parece débil al rayo![END]
 0206: Smells weak against bombs![END]
-0206-E: ¡Parece débil a las Explosiónes![END]
+0206-E: ¡Parece débil a las explosiones![END]
 0207: [END]
 0207-E: [END]
 0208: [END]
@@ -1316,7 +1316,7 @@
 027F-E: ¡[11 FF] ha atacado a la velocidad del rayo![31 FF][END]
 // Usado por la habilidad de personaje: 8
 0280: Ran away successfully![END]
-0280-E: ¡La huida ha sido exitosa![END]
+0280-E: ¡La huida ha sido exitosa·![END]
 0281: Couldn't run![END]
 0281-E: ¡Pero fue imposible![END]
 0282: For some reason, [11 FF][32 FF] couldn't attack.[END]
@@ -1947,7 +1947,7 @@
 0354-E: ¡[04 EF][11 FF] ha reventado en un mar de llamas![END]
 // Usado por el enemigo:  Árbol
 // Usado por las acciones: 45, 118, 197
-0355: [04 EF][11 FF] caused a tremendous Explosión![END]
+0355: [04 EF][11 FF] caused a tremendous explosion![END]
 0355-E: ¡[04 EF][11 FF] ha explotado violentamente![END]
 // Usado por la acción: 297
 0356: [04 EF][11 FF] used a blood-sucking attack![END]
@@ -2520,7 +2520,7 @@
 // Usado por el enemigo:  Cochinilla ENORME
 // Usado por la acción: 273
 03F8: [04 EF][11 FF] is diligently rolling its dung![END]
-03F8-E: ¡[04 EF][11 FF] está rodando su boñiga con diligencia![END]
+03F8-E: ¡[04 EF][11 FF] está rodando su boñiga con diligencia·![END]
 // Usado por el enemigo:  Escarabajo boñiguero
 // Usado por la acción: 274
 03F9: [04 EF][11 FF] cried![END]
@@ -2691,7 +2691,7 @@
 // Usado por el enemigo:  Puercareto marino
 // Usado por la acción: 254
 0429: [04 EF][11 FF] concentrated![END]
-0429-E: ¡[04 EF][11 FF] se concentra![END]
+0429-E: ¡[04 EF][11 FF] se concentra·![END]
 // Usado por el enemigo:  Trío barrera
 // Usado por la acción: 506
 042A: [04 EF][11 FF] short-circuited![END]
@@ -2707,7 +2707,7 @@
 042D: But it didn't work.[END]
 042D-E: Pero no ha funcionado[END]
 042E: It didn't hit anyone![END]
-042E-E: ¡Pero no le ha dado a nadie![END]
+042E-E: ¡No le ha dado a nadie![END]
 042F: [04 EF][12 FF] and company were eradicated![END]
 042F-E: ¡[04 EF][12 FF] y compañía han sido erradicados![END]
 0430: It had no effect on [12 FF]![END]
@@ -2717,7 +2717,7 @@
 0432: [04 EF][12 FF] became perfectly fine![END]
 0432-E: ¡[04 EF][12 FF] se ha curado por completo![END]
 0433: [04 EF][11 FF] was revived![END]
-0433-E: ¡[04 EF][11 FF] ha vuelto a la vida![END]
+0433-E: ¡[04 EF][11 FF] ha vuelto a la vida·![END]
 0434: Sucked away [12 FF]'s PP![END]
 0434-E: ¡Los PP [06 EF][12 FF] han sido drenados![END]
 0435: [12 FF] didn't have any PP to steal![END]
@@ -2767,7 +2767,7 @@
 0447: [04 EF][11 FF] exploded right where it stood![END]
 0447-E: ¡[04 EF][11 FF] ha explotado de repente![END]
 // Usado por la acción: 266
-0448: [04 EF][11 FF] generated a mechanical Explosión![END]
+0448: [04 EF][11 FF] generated a mechanical explosion![END]
 0448-E: ¡[04 EF][11 FF] ha generado una explosión mecánica·![END]
 // Usado por las acciones: 429, 528
 0449: [04 EF][11 FF] flashed an insincere mechanical smile![END]
@@ -3999,18 +3999,18 @@
 063A-E: [END]
 063B: @Tonda Gossa![WAIT]@Dramatic climaxes are when unruly dudes like[BREAK]  us get to shine![32 FF][END]
 063B-E: @¡Tonda Gossa·![WAIT]@¡La cosa se pone épica cuando los macarras[BREAK]¬como nosotros entramos en escena·![32 FF][END]
-063C: @Seems this Master Porky guy was trying to[BREAK]  use us to brainwash everyone...[32 FF][WAIT]@I say it's high time we screw up his iha dadotic[BREAK]  plans![32 FF][END]
+063C: @Seems this Master Porky guy was trying to[BREAK]  use us to brainwash everyone...[32 FF][WAIT]@I say it's high time we screw up his idiotic[BREAK]  plans![32 FF][END]
 063C-E: @Parece que ese tal Porky estaba intentando[BREAK]¬usarnos para manipular a los demás...[32 FF][WAIT]@¡Ya va siendo hora de que le pongamos fin[BREAK]¬a sus planecitos![32 FF][END]
 063D: @Hah![32 FF][BREAK]@We ain't gonna let this Porky freak have his[BREAK]  way![32 FF][END]
 063D-E: @¡Ja·![32 FF][BREAK]@¡No vamos a dejar que ese rarito[BREAK]¬se salga con la suya·![32 FF][END]
 063E: @Let me fill you in on something.[WAIT]@No matter how much you attack me, I'll never[BREAK]  die.[33 FF][WAIT]@Even if I somehow wind up beaten, I'll never[BREAK]  die.[32 FF][WAIT]@Bet you didn't know that, did you?[33 FF][END]
 063E-E: @Dejadme advertiros sobre algo.[WAIT]@No importa cuánto me ataquéis,[BREAK]¬jamás moriré.[33 FF][WAIT]@Aunque encontréis el modo de derrotarme,[BREAK]¬jamás moriré.[32 FF][WAIT]@Apuesto a que no lo sabíais...[33 FF][END]
 063F: @I've gone through time and space so many[BREAK]  times that I haven't aged like a normal person.[33 FF][WAIT]@Who knows, I might be 1000 years old,[32 FF] or even[BREAK]  10,000 years old.[33 FF][WAIT]@But, despite that, I'm still the same kid at[BREAK]  heart![34 FF][WAIT]@Is that funny?[33 FF][BREAK]@It is, isn't it?[33 FF][WAIT]@Does it make you laugh?[32 FF][BREAK]  *cough* *wheeze*[33 FF][BREAK]@Are you laughing at me?![33 FF][END]
-063F-E: @He atravesado el espacio-tiempo tantas veces[BREAK]¬que no he envejecido como alguien normal.[33 FF][WAIT]@¿Quién sabe? Podría tener 1000 años,[32 FF][BREAK]¬o incluso 10•000.[33 FF][WAIT]@Pero, a pesar de eso...[BREAK]¬¡sigo siendo un niño por dentro![34 FF][WAIT]@Es gracioso, ¿eh?[33 FF][BREAK]@Lo es, ¿a que sí?[33 FF][WAIT]@¿Os parece gracioso?[32 FF][BREAK]¬*cof* *jadeo*[33 FF][BREAK]@¡¿Os estáis riendo de mí?![33 FF][END]
+063F-E: @He atravesado el espacio-tiempo tantas veces[BREAK]¬que no he envejecido como alguien normal.[33 FF][WAIT]@¿Quién sabe? Podría tener 1000 años,[32 FF][BREAK]¬o incluso 10•000.[33 FF][WAIT]@Pero a pesar de eso...[BREAK]¬¡sigo siendo un niño por dentro![34 FF][WAIT]@Es gracioso, ¿eh?[33 FF][BREAK]@Lo es, ¿a que sí·?[33 FF][WAIT]@¿Os parece gracioso?[32 FF][BREAK]¬*cof* *jadeo*[33 FF][BREAK]@¡¿Os estáis riendo de mí·?![33 FF][END]
 0640: @If the Dragon wakes up,[32 FF] it might end up[BREAK]  destroying everything and extinguishing all life.[33 FF][WAIT]@Even so...[32 FF] Ahaha[31 FF][31 FF] aha[32 FF] ahahaha[32 FF] ahahahahahaha![32 FF][WAIT]@*cough* *gasp*[31 FF][31 FF] *cough*[33 FF][BREAK]@Even so, I'll be alive.[32 FF][WAIT]@Me and the Dragon will be the only things left[BREAK]  alive in the whole wide world![WAIT]@I'm more than ready for that possibility.[32 FF][BREAK]  Ahaha[31 FF][31 FF] ahahahahaha![WAIT]@*cough* *cough*[33 FF] *gasp*[31 FF] *wheeze*[31 FF][WAIT]@With my eternal life, I will see the world[BREAK]  through to its end.[33 FF][WAIT]  Until everyone who won't like me is gone.[33 FF][END]
 0640-E: @Si el Dragón despierta,[32 FF] es posible que[BREAK]¬lo destruya todo, eliminando toda forma[BREAK]¬de vida.[33 FF][WAIT]@Aun así...[32 FF] ¡Ja, ja, ja·![31 FF][31 FF] ¡Ja, ja·![32 FF][BREAK]¬¡Ja, ja, ja·![32 FF] ¡Ja, ja, ja, ja·![32 FF][WAIT]@*cof* *uf*[31 FF][31 FF] *cof*[33 FF][BREAK]@Aun así, viviré.[32 FF][WAIT]@¡El Dragón y yo seremos lo único que[BREAK]¬quede con vida en el mundo entero![WAIT]@Tengo más que asumida esa posibilidad.[32 FF][BREAK]¬¡Ja, ja, ja·![31 FF][31 FF] ¡Ja, ja, ja, ja, ja·![WAIT]@*cof* *cof*[33 FF] *uf*[31 FF] *jadeo*[31 FF][WAIT]@Gracias a mi vida eterna, seré testigo[BREAK]¬del fin del mundo.[33 FF][WAIT]¬¡Testigo del fin de todos los que me odian![33 FF][END]
 0641: @Thank you[32 FF] for playing along with me all the[BREAK]  way to the end like this.[33 FF][WAIT]@I'm actually a pretty nice guy, wouldn't you[BREAK]  say?[WAIT]  Aha[32 FF] ahaha.[33 FF][END]
-0641-E: @Gracias[32 FF] por haber jugado conmigo[BREAK]¬hasta el final con tanto empeño.[33 FF][WAIT]@Soy un chico de lo más agradable,[BREAK]¬¿a que sí·?[WAIT]¬Ja, ja.[32 FF] Ja, ja, ja.[33 FF][END]
+0641-E: @Gracias[32 FF] por haber jugado conmigo[BREAK]¬hasta el final con tanto empeño.[33 FF][WAIT]@Soy un chico de lo más agradable,[BREAK]¬¿a que sí·?[WAIT]¬Ja, ja.[32 FF] ¡Ja, ja, ja·![33 FF][END]
 0642: @I'll never die.[33 FF][WAIT]@I'll never die,[32 FF] nor will I ever be beaten...[33 FF][WAIT]  ...but it appears my machine has run out of[BREAK]  energy for the moment.[33 FF][WAIT]@Ahaha.[32 FF][BREAK]@[15 FF]...[33 FF][WAIT]  You haven't won, just so you know.[33 FF][END]
 0642-E: @Jamás moriré.[33 FF][WAIT]@Jamás moriré,[32 FF] ni tampoco me derrotaréis...[33 FF][WAIT]¬™..pero parece que mi máquina[BREAK]¬se ha quedado sin energía.[33 FF][WAIT]@Ja, ja, ja.[32 FF][BREAK]@[15 FF]...[33 FF][WAIT]¬No has ganado, que lo sepas.[33 FF][END]
 0643: @I'm going to duck inside this "Absolutely Safe[BREAK]  Capsule" for the time being.[33 FF][WAIT]@When I'm inside, no attack will have any[BREAK]  effect on me whatsoever.[33 FF][WAIT]@I'm sure you're thinking to yourself, "Yeah,[BREAK]  right. There's no such thing as "absolutely"..."[32 FF][WAIT]@But there is such a thing... And it's this![WAIT]  The Absolutely Safe Capsule I tricked Dr.[BREAK]  Andonuts and the Mr. Saturns into making for[BREAK]  me![31 FF][32 FF][WAIT]  Me![31 FF] ME![32 FF] All for me![31 FF][BREAK]  *cough*[31 FF] *cough*[33 FF][END]

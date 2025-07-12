@@ -19,7 +19,7 @@
 05-E:[BREAK][BREAK]Creado a partir•de barro.[BREAK]Su•triŠte miƒada refleja[BREAK]lo•tƒabajador•que es.[END]
 
 06:[BREAK]This vicious, mechanized[BREAK]monstrosity was once a[BREAK]friendly animal known as a[BREAK]Drago.[END]
-06-E:[BREAK]EŠte•furioso monŠtruo[BREAK]mecanizado eƒa en su día[BREAK]un amiŠtoso y pacífico[BREAK]Dƒago.[END]
+06-E:[BREAK]EŠte•furioso monŠtruo[BREAK]mecanizado eƒa en su día[BREAK]un Dƒago amiŠtoso[BREAK]y pacífico.[END]
 
 07:[BREAK]This Pigmask weapon[BREAK]raises an awful racket and[BREAK]belches black exhaust[BREAK]fumes without remorse.[END]
 07-E:[BREAK]ôremendamente ruidoso.[BREAK]Contamina el aire sin[BREAK]piedad alguna con el[BREAK]humo de su motor™[END]
@@ -139,7 +139,7 @@
 2D-E:[BREAK]Ansía ser•consideƒado[BREAK]dulce y sabroso.[BREAK]Prefiere pasar•el ƒato[BREAK]enterƒado bajo suelo.[END]
 
 2E:[BREAK]The buzzing wings on its[BREAK]back were probably[BREAK]transplanted from a giant[BREAK]insect.[END]
-2E-E:[BREAK]Probablemente, sus[BREAK]zumbantes alas hayan[BREAK]sido•tƒansplantadas de[BREAK]un insecto gigante.[END]
+2E-E:[BREAK]Probablemente, sus[BREAK]zumbantes alas hayan[BREAK]sido•tƒasplantadas de[BREAK]un insecto gigante.[END]
 
 2F:Robots based off of Porky[BREAK]when he was a child. Made[BREAK]in a set of 11 for such[BREAK]purposes as forming a[BREAK]soccer team.[END]
 2ø-E:Robots basados en Porky[BREAK]cuando eƒa niño. Creados[BREAK]en grupos de 11 paƒa[BREAK]cosas como•formar•un[BREAK]equipo de•fútbol.[END]
@@ -289,7 +289,7 @@
 5ø-E:[BREAK]Ca‡a un hoyo y espeƒa a[BREAK]que caigan hormigas en él.[BREAK]No le importa si en vez de[BREAK]hormigas caen humanos.[END]
 
 60:[BREAK]Flies all around the desert[BREAK]with its chin chattering.[BREAK]Makes its opponents feel[BREAK]foolish.[END]
-60-E:[BREAK]Vuela por•todo el desierto[BREAK]rechinando sus dientes.[BREAK]Hace que sus enemigos[BREAK]se sientan avergonzados.[END]
+60-E:[BREAK]Vuela por•todo el desierto[BREAK]caŠtañeando sus dientes.[BREAK]Hace que sus enemigos[BREAK]se sientan avergonzados.[END]
 
 61:[BREAK]Dung Beetles clean up[BREAK]their messes. In return,[BREAK]they eat the Dung Beetles.[BREAK]Not exactly a fair trade.[END]
 61-E:Los escaƒabajos recogen[BREAK]sus heces y ellos•se[BREAK]comen a los escaƒabajos.[BREAK]No es que sea un•tƒato[BREAK]muy•juŠto.[END]

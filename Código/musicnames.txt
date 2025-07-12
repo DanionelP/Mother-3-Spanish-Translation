@@ -417,7 +417,7 @@
 0CE:And Then There Were None[END]
 0CE-E:Y•no quedó nadie[END]
 0CF:Is Anyone There?[END]
-0Cø-E:¿Hay alguien ahí?[END]
+0Cø-E:¿Hay alguien ahí·?[END]
 0D0:Like Looking for Dropped Pickles[END]
 0D0-E:Como buscar•pepinillos en el suelo[END]
 0D1:Chupichupyoi for World Heritage[END]
