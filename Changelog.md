@@ -1,3 +1,9 @@
+# 1.21
+Esta es una actualización pequeña, consiste únicamente de cambios en el texto. El motivo de esta actualización es que encontré en el juego diálogo oculto que no estaba bien puesto (le faltaba el bullet point de narrador), siendo muy irónico que haya jugado al juego 8 veces y no haya encontrado nunca ese diálogo.
+
+También tiene más adecuaciones del script, y algún que otro acento corregido, pero el cambio es mínimo.
+
+
 # 1.2
 
 ## Cambios gráficos
